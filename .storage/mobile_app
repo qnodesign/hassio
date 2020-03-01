@@ -1,0 +1,194 @@
+{
+    "data": {
+        "binary_sensor": {},
+        "deleted_ids": [],
+        "sensor": {
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_activity": {
+                "added": true,
+                "attributes": {
+                    "Confidence": "High",
+                    "Types": [
+                        "Stationary"
+                    ]
+                },
+                "icon": "mdi:human-male",
+                "name": "Activity",
+                "state": "Stationary",
+                "type": "sensor",
+                "unique_id": "activity",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_battery_level": {
+                "added": true,
+                "attributes": {
+                    "Battery State": "Not Charging"
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-70",
+                "name": "Battery Level",
+                "state": 71,
+                "type": "sensor",
+                "unique_id": "battery_level",
+                "unit_of_measurement": "%",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_battery_state": {
+                "added": true,
+                "attributes": {
+                    "Battery Level": 71
+                },
+                "device_class": "battery",
+                "icon": "mdi:battery-70",
+                "name": "Battery State",
+                "state": "Not Charging",
+                "type": "sensor",
+                "unique_id": "battery_state",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_connectivity_bssid": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi-off",
+                "name": "BSSID",
+                "state": "Not Connected",
+                "type": "sensor",
+                "unique_id": "connectivity_bssid",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_connectivity_connection_type": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi",
+                "name": "Connection Type",
+                "state": "Wi-Fi",
+                "type": "sensor",
+                "unique_id": "connectivity_connection_type",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_connectivity_sim_1": {
+                "added": true,
+                "attributes": {
+                    "Allows VoIP": true,
+                    "Carrier ID": "0000000100000001",
+                    "Carrier Name": "Sunrise",
+                    "Current Radio Technology": "Long-Term Evolution (LTE)",
+                    "ISO Country Code": "ch",
+                    "Mobile Country Code": "228",
+                    "Mobile Network Code": "02"
+                },
+                "icon": "mdi:sim",
+                "name": "SIM 1",
+                "state": "Sunrise",
+                "type": "sensor",
+                "unique_id": "connectivity_sim_1",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_connectivity_ssid": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:wifi-off",
+                "name": "SSID",
+                "state": "Not Connected",
+                "type": "sensor",
+                "unique_id": "connectivity_ssid",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_geocoded_location": {
+                "added": true,
+                "attributes": {
+                    "Administrative Area": "Z\u00fcrich",
+                    "Areas Of Interest": "N/A",
+                    "Country": "Switzerland",
+                    "ISO Country Code": "CH",
+                    "Inland Water": "N/A",
+                    "Locality": "Affoltern am Albis",
+                    "Location": [
+                        47.27874755859375,
+                        8.45890552788921
+                    ],
+                    "Name": "Erlenweg 6",
+                    "Ocean": "N/A",
+                    "Postal Code": "8910",
+                    "Sub Administrative Area": "Affoltern",
+                    "Sub Locality": "N/A",
+                    "Sub Thoroughfare": "6",
+                    "Thoroughfare": "Erlenweg",
+                    "Time Zone": "Europe/Zurich"
+                },
+                "icon": "mdi:map",
+                "name": "Geocoded Location",
+                "state": "Erlenweg 6\n8910 Affoltern am Albis\nSwitzerland",
+                "type": "sensor",
+                "unique_id": "geocoded_location",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_last_update_trigger": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:cellphone-wireless",
+                "name": "Last Update Trigger",
+                "state": "Background Fetch",
+                "type": "sensor",
+                "unique_id": "last_update_trigger",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_pedometer_avg_active_pace": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:speedometer",
+                "name": "Average Active Pace",
+                "state": 1,
+                "type": "sensor",
+                "unique_id": "pedometer_avg_active_pace",
+                "unit_of_measurement": "m/s",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_pedometer_distance": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:hiking",
+                "name": "Distance",
+                "state": 1471,
+                "type": "sensor",
+                "unique_id": "pedometer_distance",
+                "unit_of_measurement": "m",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_pedometer_floors_ascended": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:slope-uphill",
+                "name": "Floors Ascended",
+                "state": 17,
+                "type": "sensor",
+                "unique_id": "pedometer_floors_ascended",
+                "unit_of_measurement": "floors",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_pedometer_floors_descended": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:slope-downhill",
+                "name": "Floors Descended",
+                "state": 17,
+                "type": "sensor",
+                "unique_id": "pedometer_floors_descended",
+                "unit_of_measurement": "floors",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            },
+            "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7_pedometer_steps": {
+                "added": true,
+                "attributes": {},
+                "icon": "mdi:walk",
+                "name": "Steps",
+                "state": 2172,
+                "type": "sensor",
+                "unique_id": "pedometer_steps",
+                "unit_of_measurement": "steps",
+                "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+            }
+        }
+    },
+    "key": "mobile_app",
+    "version": 1
+}

@@ -1,0 +1,517 @@
+2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setup of domain logger took 0.0 seconds.
+2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setting up http
+2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setup of domain http took 0.0 seconds.
+2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setting up system_log
+2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setup of domain system_log took 0.0 seconds.
+2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setting up recorder
+2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setting up webhook
+2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setup of domain webhook took 0.0 seconds.
+2020-03-01 18:23:12 INFO (SyncWorker_19) [homeassistant.loader] Loaded alexa from homeassistant.components.alexa
+2020-03-01 18:23:12 INFO (SyncWorker_3) [homeassistant.loader] Loaded google_assistant from homeassistant.components.google_assistant
+2020-03-01 18:23:12 INFO (SyncWorker_0) [homeassistant.loader] Loaded camera from homeassistant.components.camera
+2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setup of domain recorder took 0.2 seconds.
+2020-03-01 18:23:12 INFO (SyncWorker_12) [homeassistant.loader] Loaded media_player from homeassistant.components.media_player
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up cloud
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setup of domain cloud took 0.1 seconds.
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up scene
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.components.scene] Setting up scene.homeassistant
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up met
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setup of domain met took 0.0 seconds.
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up updater
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up homekit
+2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up group
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain group took 0.0 seconds.
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up lovelace
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain lovelace took 0.0 seconds.
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up tado
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up zone
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up ssdp
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain ssdp took 0.0 seconds.
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up sun
+2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain sun took 0.1 seconds.
+2020-03-01 18:23:26 INFO (SyncWorker_4) [homeassistant.loader] Loaded weather from homeassistant.components.weather
+2020-03-01 18:23:27 INFO (MainThread) [homeassistant.setup] Setting up person
+2020-03-01 18:23:27 INFO (MainThread) [homeassistant.setup] Setting up samsungtv
+2020-03-01 18:23:27 INFO (MainThread) [homeassistant.setup] Setup of domain samsungtv took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up websocket_api
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain websocket_api took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up script
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain script took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up config
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up device_automation
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain device_automation took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up history
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain history took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up api
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up system_health
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain system_health took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up deconz
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain deconz took 0.0 seconds.
+2020-03-01 18:23:28 DEBUG (MainThread) [pydeconz.gateway] Sending "get" "None" to "172.30.33.0 "
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain scene took 4.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up weather
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain weather took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain homekit took 3.8 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up auth
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain auth took 0.0 seconds.
+2020-03-01 18:23:28 INFO (MainThread) [homeassistant.components.weather] Setting up weather.met
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up search
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain search took 0.0 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain api took 0.4 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain tado took 3.7 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain config took 0.4 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up somfy
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain somfy took 0.0 seconds.
+2020-03-01 18:23:29 INFO (SyncWorker_0) [homeassistant.loader] Loaded sensor from homeassistant.components.sensor
+2020-03-01 18:23:29 INFO (SyncWorker_10) [homeassistant.loader] Loaded climate from homeassistant.components.climate
+2020-03-01 18:23:29 INFO (SyncWorker_12) [homeassistant.loader] Loaded water_heater from homeassistant.components.water_heater
+2020-03-01 18:23:29 INFO (SyncWorker_12) [homeassistant.loader] Loaded switch from homeassistant.components.switch
+2020-03-01 18:23:29 INFO (SyncWorker_17) [homeassistant.loader] Loaded light from homeassistant.components.light
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain zone took 4.1 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up media_player
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain media_player took 0.0 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.components.media_player] Setting up media_player.samsungtv
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up hue
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain hue took 0.0 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up sensor
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain sensor took 0.0 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up climate
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain climate took 0.0 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up water_heater
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain water_heater took 0.0 seconds.
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up tradfri
+2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain tradfri took 0.0 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up device_tracker
+2020-03-01 18:23:30 ERROR (MainThread) [homeassistant.components.updater] Could not contact Home Assistant Update to check for updates
+2020-03-01 18:23:30 ERROR (MainThread) [homeassistant.components.updater] Error fetching Home Assistant update data: 
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain updater took 5.2 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.tado
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.climate] Setting up climate.tado
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.water_heater] Setting up water_heater.tado
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up automation
+2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.gateway] HTTP request response: {'config': {'UTC': '2020-03-01T17:23:30',
+            'apiversion': '1.16.0',
+            'backup': {'errorcode': 0, 'status': 'idle'},
+            'bridgeid': '00212EFFFF0519AC',
+            'datastoreversion': '60',
+            'devicename': 'ConBee II',
+            'dhcp': True,
+            'factorynew': False,
+            'fwversion': '0x264a0700',
+            'gateway': '172.30.33.1',
+            'internetservices': {'remoteaccess': 'disconnected'},
+            'ipaddress': '172.30.33.0',
+            'linkbutton': False,
+            'localtime': '2020-03-01T18:23:30',
+            'mac': '02:42:ac:1e:21:00',
+            'modelid': 'deCONZ',
+            'name': 'qnoConBee',
+            'netmask': '255.255.254.0',
+            'networkopenduration': 60,
+            'panid': 20452,
+            'portalconnection': 'disconnected',
+            'portalservices': False,
+            'portalstate': {'communication': 'disconnected',
+                            'incoming': False,
+                            'outgoing': False,
+                            'signedon': False},
+            'proxyaddress': 'none',
+            'proxyport': 0,
+            'replacesbridgeid': None,
+            'rfconnected': True,
+            'starterkitid': '',
+            'swupdate': {'checkforupdate': False,
+                         'devicetypes': {'bridge': False,
+                                         'lights': [],
+                                         'sensors': []},
+                         'notify': False,
+                         'text': '',
+                         'updatestate': 0,
+                         'url': ''},
+            'swupdate2': {'autoinstall': {'on': False, 'updatetime': ''},
+                          'bridge': {'lastinstall': '2020-02-25T12:46:04',
+                                     'state': 'allreadytoinstall'},
+                          'checkforupdate': False,
+                          'install': False,
+                          'lastchange': '',
+                          'lastinstall': '',
+                          'state': 'allreadytoinstall'},
+            'swversion': '2.5.74',
+            'timeformat': '12h',
+            'timezone': 'Europe/Zurich',
+            'uuid': '9c0ec467-ef3c-4666-b065-c2ceb9cd7bc3',
+            'websocketnotifyall': True,
+            'websocketport': 8081,
+            'whitelist': {'0D110F80BD': {'create date': '2020-02-29T22:57:27',
+                                         'last use date': '2020-03-01T17:23:30',
+                                         'name': 'Home Assistant'},
+                          '54451652B9': {'create date': '2020-03-01T17:20:37',
+                                         'last use date': '2020-03-01T17:21:05',
+                                         'name': 'Phoscon#B1462x1248'},
+                          '8E701E0DB2': {'create date': '2020-02-29T23:25:11',
+                                         'last use date': '2020-03-01T09:44:28',
+                                         'name': 'Phoscon#B1462x1248'},
+                          '92C5858CAB': {'create date': '2020-02-29T22:33:55',
+                                         'last use date': '2020-02-29T22:33:59',
+                                         'name': 'Phoscon#B1462x1248'}},
+            'zigbeechannel': 25},
+ 'groups': {},
+ 'lights': {'1': {'etag': 'f4c4a3f6cc1ed195c68ff1ef944987e5',
+                  'hascolor': False,
+                  'manufacturername': 'dresden elektronik',
+                  'modelid': 'ConBee II',
+                  'name': 'Unknown 1',
+                  'state': {'alert': 'none', 'on': False, 'reachable': True},
+                  'swversion': '0x264a0700',
+                  'type': 'Unknown',
+                  'uniqueid': '00:21:2e:ff:ff:05:19:ac-01'}},
+ 'resourcelinks': {},
+ 'rules': {},
+ 'scenes': {},
+ 'schedules': {},
+ 'sensors': {'1': {'config': {'configured': True,
+                              'on': True,
+                              'sunriseoffset': 30,
+                              'sunsetoffset': -30},
+                   'etag': 'e15c95dcaaf721bf0645ae5d8127ca86',
+                   'manufacturername': 'Philips',
+                   'modelid': 'PHDL00',
+                   'name': 'Daylight',
+                   'state': {'dark': True,
+                             'daylight': False,
+                             'lastupdated': '2020-03-01T17:13:12',
+                             'status': 200,
+                             'sunrise': '2020-03-01T06:07:28',
+                             'sunset': '2020-03-01T17:12:26'},
+                   'swversion': '1.0',
+                   'type': 'Daylight',
+                   'uniqueid': '00:21:2e:ff:ff:05:19:ac-01'},
+             '2': {'config': {'on': True},
+                   'ep': 242,
+                   'etag': 'ea52671d06cf5e990db2d88aa1174dd2',
+                   'manufacturername': 'PhilipsFoH',
+                   'modelid': 'FOHSWITCH',
+                   'name': 'FoH switch',
+                   'state': {'buttonevent': 3002,
+                             'lastupdated': '2020-03-01T17:22:00'},
+                   'type': 'ZGPSwitch',
+                   'uniqueid': '00:00:00:00:01:70:f1:dd-f2'}}}
+2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.deconzdevice] Unknown 1 created as 
+{'etag': 'f4c4a3f6cc1ed195c68ff1ef944987e5',
+ 'hascolor': False,
+ 'manufacturername': 'dresden elektronik',
+ 'modelid': 'ConBee II',
+ 'name': 'Unknown 1',
+ 'state': {'alert': 'none', 'on': False, 'reachable': True},
+ 'swversion': '0x264a0700',
+ 'type': 'Unknown',
+ 'uniqueid': '00:21:2e:ff:ff:05:19:ac-01'}
+2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.deconzdevice] Daylight created as 
+{'config': {'configured': True,
+            'on': True,
+            'sunriseoffset': 30,
+            'sunsetoffset': -30},
+ 'etag': 'e15c95dcaaf721bf0645ae5d8127ca86',
+ 'manufacturername': 'Philips',
+ 'modelid': 'PHDL00',
+ 'name': 'Daylight',
+ 'state': {'dark': True,
+           'daylight': False,
+           'lastupdated': '2020-03-01T17:13:12',
+           'status': 200,
+           'sunrise': '2020-03-01T06:07:28',
+           'sunset': '2020-03-01T17:12:26'},
+ 'swversion': '1.0',
+ 'type': 'Daylight',
+ 'uniqueid': '00:21:2e:ff:ff:05:19:ac-01'}
+2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.deconzdevice] FoH switch created as 
+{'config': {'on': True},
+ 'ep': 242,
+ 'etag': 'ea52671d06cf5e990db2d88aa1174dd2',
+ 'manufacturername': 'PhilipsFoH',
+ 'modelid': 'FOHSWITCH',
+ 'name': 'FoH switch',
+ 'state': {'buttonevent': 3002, 'lastupdated': '2020-03-01T17:22:00'},
+ 'type': 'ZGPSwitch',
+ 'uniqueid': '00:00:00:00:01:70:f1:dd-f2'}
+2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.websocket] Websocket starting
+2020-03-01 18:23:30 INFO (SyncWorker_0) [homeassistant.loader] Loaded binary_sensor from homeassistant.components.binary_sensor
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.climate] Setting up climate.deconz
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.scene] Setting up scene.deconz
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.deconz
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up zeroconf
+2020-03-01 18:23:30 DEBUG (MainThread) [homeassistant.components.deconz] deCONZ event created: foh_switch
+2020-03-01 18:23:30 INFO (SyncWorker_15) [homeassistant.loader] Loaded cover from homeassistant.components.cover
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up binary_sensor
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain binary_sensor took 0.0 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.device_tracker] Setting up device_tracker.legacy
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.deconz
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up light
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up switch
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain switch took 0.0 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain person took 3.4 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain automation took 0.5 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.updater
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.switch] Setting up switch.deconz
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain light took 0.2 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up cover
+2020-03-01 18:23:30 INFO (SyncWorker_14) [homeassistant.loader] Loaded homekit_controller from homeassistant.components.homekit_controller
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain cover took 0.0 seconds.
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.light] Setting up light.deconz
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up onboarding
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.cover] Setting up cover.deconz
+2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain zeroconf took 0.6 seconds.
+2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.light] Setting up light.hue
+2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.hue
+2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.hue
+2020-03-01 18:23:31 DEBUG (MainThread) [pydeconz.websocket] Websocket running
+2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.light] Not adding entity ?? because it's disabled
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.setup] Setup of domain onboarding took 1.1 seconds.
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.setup] Setting up mobile_app
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.cover] Setting up cover.tradfri
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.light] Setting up light.tradfri
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.tradfri
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.switch] Setting up switch.tradfri
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.setup] Setup of domain mobile_app took 0.1 seconds.
+2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.light] Not adding entity Hue white lamp 1 because it's disabled
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.mobile_app
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.mobile_app
+2020-03-01 18:23:33 INFO (SyncWorker_5) [homeassistant.components.tado.device_tracker] Scanner initialized
+2020-03-01 18:23:33 INFO (SyncWorker_11) [homeassistant.loader] Loaded notify from homeassistant.components.notify
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up frontend
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain frontend took 0.0 seconds.
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up notify
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain notify took 0.0 seconds.
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up panel_custom
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain panel_custom took 0.0 seconds.
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up map
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain map took 0.0 seconds.
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up logbook
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain logbook took 0.0 seconds.
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain device_tracker took 3.5 seconds.
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.device_tracker] Setting up device_tracker.mobile_app
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.notify] Setting up notify.mobile_app
+2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up hassio
+2020-03-01 18:23:34 INFO (MainThread) [homeassistant.setup] Setting up default_config
+2020-03-01 18:23:34 INFO (SyncWorker_14) [homeassistant.loader] Loaded stream from homeassistant.components.stream
+2020-03-01 18:23:34 INFO (MainThread) [homeassistant.components.cover] Setting up cover.somfy
+2020-03-01 18:23:34 INFO (MainThread) [homeassistant.components.switch] Setting up switch.somfy
+2020-03-01 18:23:34 INFO (MainThread) [homeassistant.setup] Setting up stream
+2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain stream took 0.0 seconds.
+2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain default_config took 0.3 seconds.
+2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain hassio took 1.4 seconds.
+2020-03-01 18:23:35 INFO (SyncWorker_7) [homeassistant.loader] Loaded google_translate from homeassistant.components.google_translate
+2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setting up tts
+2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain tts took 0.1 seconds.
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.bootstrap] Home Assistant initialized in 26.08s
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.core] Starting Home Assistant
+2020-03-01 18:23:36 INFO (SyncWorker_8) [homeassistant.components.zeroconf] Starting Zeroconf broadcast
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger Set theme at startup
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room light
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room light
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.core] Timer:starting
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Executing Set theme at startup
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.helpers.script] Script Set theme at startup: Running script
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.helpers.script] Script Set theme at startup: Executing step call service
+2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.frontend] Theme ios-dark-mode set as default
+2020-03-01 18:23:36 DEBUG (MainThread) [homeassistant.components.deconz] deCONZ HASSIO discovery {'addon': 'deCONZ',
+ 'api_key': '0D110F80BD',
+ 'host': '172.30.33.0',
+ 'port': 40850,
+ 'serial': '00212EFFFF0519AC'}
+2020-03-01 18:23:36 INFO (SyncWorker_3) [pyhap.accessory_driver] Loading Accessory state from `/config/.homekit.state`
+2020-03-01 18:23:36 INFO (SyncWorker_12) [pyhap.accessory_driver] Starting the event loop
+2020-03-01 18:23:36 INFO (SyncWorker_0) [pyhap.accessory_driver] Starting accessory Home Assistant Bridge on address 192.168.1.158, port 51827.
+2020-03-01 18:23:36 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.83', 49193).
+2020-03-01 18:23:37 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:23:37 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:23:37 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "GET /accessories HTTP/1.1" 200 -
+2020-03-01 18:23:37 INFO (SyncWorker_18) [homeassistant.loader] Loaded ecobee from homeassistant.components.ecobee
+2020-03-01 18:23:38 INFO (SyncWorker_13) [homeassistant.loader] Loaded zwave from homeassistant.components.zwave
+2020-03-01 18:23:40 INFO (SyncWorker_17) [homeassistant.loader] Loaded simplisafe from homeassistant.components.simplisafe
+2020-03-01 18:23:40 INFO (SyncWorker_18) [homeassistant.loader] Loaded ipma from homeassistant.components.ipma
+2020-03-01 18:23:40 INFO (SyncWorker_14) [homeassistant.loader] Loaded withings from homeassistant.components.withings
+2020-03-01 18:23:40 INFO (SyncWorker_13) [homeassistant.loader] Loaded twilio from homeassistant.components.twilio
+2020-03-01 18:23:40 INFO (SyncWorker_4) [homeassistant.loader] Loaded brother from homeassistant.components.brother
+2020-03-01 18:23:40 INFO (SyncWorker_11) [homeassistant.loader] Loaded meteo_france from homeassistant.components.meteo_france
+2020-03-01 18:23:41 INFO (SyncWorker_7) [homeassistant.loader] Loaded plex from homeassistant.components.plex
+2020-03-01 18:23:41 INFO (SyncWorker_2) [homeassistant.loader] Loaded geofency from homeassistant.components.geofency
+2020-03-01 18:23:41 INFO (SyncWorker_16) [homeassistant.loader] Loaded adguard from homeassistant.components.adguard
+2020-03-01 18:23:41 INFO (SyncWorker_17) [homeassistant.loader] Loaded huawei_lte from homeassistant.components.huawei_lte
+2020-03-01 18:23:41 INFO (SyncWorker_18) [homeassistant.loader] Loaded esphome from homeassistant.components.esphome
+2020-03-01 18:23:41 INFO (SyncWorker_14) [homeassistant.loader] Loaded tellduslive from homeassistant.components.tellduslive
+2020-03-01 18:23:41 INFO (SyncWorker_13) [homeassistant.loader] Loaded openuv from homeassistant.components.openuv
+2020-03-01 18:23:42 INFO (SyncWorker_11) [homeassistant.loader] Loaded solaredge from homeassistant.components.solaredge
+2020-03-01 18:23:42 INFO (SyncWorker_7) [homeassistant.loader] Loaded minecraft_server from homeassistant.components.minecraft_server
+2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded cast from homeassistant.components.cast
+2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded tplink from homeassistant.components.tplink
+2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded logi_circle from homeassistant.components.logi_circle
+2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded twentemilieu from homeassistant.components.twentemilieu
+2020-03-01 18:23:42 INFO (SyncWorker_14) [homeassistant.loader] Loaded ambient_station from homeassistant.components.ambient_station
+2020-03-01 18:23:42 INFO (SyncWorker_13) [homeassistant.loader] Loaded ambiclimate from homeassistant.components.ambiclimate
+2020-03-01 18:23:42 INFO (SyncWorker_4) [homeassistant.loader] Loaded hangouts from homeassistant.components.hangouts
+2020-03-01 18:23:42 INFO (SyncWorker_9) [homeassistant.loader] Loaded axis from homeassistant.components.axis
+2020-03-01 18:23:42 INFO (SyncWorker_1) [homeassistant.loader] Loaded locative from homeassistant.components.locative
+2020-03-01 18:23:42 INFO (SyncWorker_8) [homeassistant.loader] Loaded spotify from homeassistant.components.spotify
+2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded upnp from homeassistant.components.upnp
+2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded netatmo from homeassistant.components.netatmo
+2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded mikrotik from homeassistant.components.mikrotik
+2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded coolmaster from homeassistant.components.coolmaster
+2020-03-01 18:23:42 INFO (SyncWorker_14) [homeassistant.loader] Loaded iqvia from homeassistant.components.iqvia
+2020-03-01 18:23:42 INFO (SyncWorker_13) [homeassistant.loader] Loaded velbus from homeassistant.components.velbus
+2020-03-01 18:23:42 INFO (SyncWorker_4) [homeassistant.loader] Loaded emulated_roku from homeassistant.components.emulated_roku
+2020-03-01 18:23:42 INFO (SyncWorker_9) [homeassistant.loader] Loaded dialogflow from homeassistant.components.dialogflow
+2020-03-01 18:23:42 INFO (SyncWorker_1) [homeassistant.loader] Loaded opentherm_gw from homeassistant.components.opentherm_gw
+2020-03-01 18:23:42 INFO (SyncWorker_8) [homeassistant.loader] Loaded smhi from homeassistant.components.smhi
+2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded daikin from homeassistant.components.daikin
+2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded mqtt from homeassistant.components.mqtt
+2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded gdacs from homeassistant.components.gdacs
+2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded tesla from homeassistant.components.tesla
+2020-03-01 18:23:42 INFO (SyncWorker_14) [homeassistant.loader] Loaded wwlln from homeassistant.components.wwlln
+2020-03-01 18:23:42 INFO (SyncWorker_13) [homeassistant.loader] Loaded airly from homeassistant.components.airly
+2020-03-01 18:23:42 INFO (SyncWorker_4) [homeassistant.loader] Loaded luftdaten from homeassistant.components.luftdaten
+2020-03-01 18:23:42 INFO (SyncWorker_9) [homeassistant.loader] Loaded vilfo from homeassistant.components.vilfo
+2020-03-01 18:23:42 INFO (SyncWorker_1) [homeassistant.loader] Loaded toon from homeassistant.components.toon
+2020-03-01 18:23:42 INFO (SyncWorker_8) [homeassistant.loader] Loaded melcloud from homeassistant.components.melcloud
+2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded sentry from homeassistant.components.sentry
+2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded soma from homeassistant.components.soma
+2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded konnected from homeassistant.components.konnected
+2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded life360 from homeassistant.components.life360
+2020-03-01 18:23:43 INFO (SyncWorker_14) [homeassistant.loader] Loaded gpslogger from homeassistant.components.gpslogger
+2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded neato from homeassistant.components.neato
+2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded vesync from homeassistant.components.vesync
+2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded izone from homeassistant.components.izone
+2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded starline from homeassistant.components.starline
+2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded almond from homeassistant.components.almond
+2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded nest from homeassistant.components.nest
+2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded homematicip_cloud from homeassistant.components.homematicip_cloud
+2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded notion from homeassistant.components.notion
+2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded hisense_aehw4a1 from homeassistant.components.hisense_aehw4a1
+2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded owntracks from homeassistant.components.owntracks
+2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded geonetnz_quakes from homeassistant.components.geonetnz_quakes
+2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded traccar from homeassistant.components.traccar
+2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded wemo from homeassistant.components.wemo
+2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded elgato from homeassistant.components.elgato
+2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded cert_expiry from homeassistant.components.cert_expiry
+2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded zha from homeassistant.components.zha
+2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded point from homeassistant.components.point
+2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded heos from homeassistant.components.heos
+2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded glances from homeassistant.components.glances
+2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded garmin_connect from homeassistant.components.garmin_connect
+2020-03-01 18:23:43 WARNING (MainThread) [homeassistant.loader] You are using a custom integration for hacs which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you do experience issues with Home Assistant.
+2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded abode from homeassistant.components.abode
+2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded dynalite from homeassistant.components.dynalite
+2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded lifx from homeassistant.components.lifx
+2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded icloud from homeassistant.components.icloud
+2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded local_ip from homeassistant.components.local_ip
+2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded iaqualink from homeassistant.components.iaqualink
+2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded mailgun from homeassistant.components.mailgun
+2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded vizio from homeassistant.components.vizio
+2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded sonos from homeassistant.components.sonos
+2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded wled from homeassistant.components.wled
+2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded ps4 from homeassistant.components.ps4
+2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded ifttt from homeassistant.components.ifttt
+2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded geonetnz_volcano from homeassistant.components.geonetnz_volcano
+2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded ios from homeassistant.components.ios
+2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded unifi from homeassistant.components.unifi
+2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded solarlog from homeassistant.components.solarlog
+2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded plaato from homeassistant.components.plaato
+2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded gios from homeassistant.components.gios
+2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded linky from homeassistant.components.linky
+2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded smartthings from homeassistant.components.smartthings
+2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded rainmachine from homeassistant.components.rainmachine
+2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded transmission from homeassistant.components.transmission
+2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded ring from homeassistant.components.ring
+2020-03-01 18:23:43 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 63202).
+2020-03-01 18:23:43 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:23:43 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:23:44 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-01 18:27:05 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 63203).
+2020-03-01 18:27:05 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:27:05 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:27:05 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1000,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1002,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:09 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room light
+2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Running script
+2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Executing step device automation
+2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3000,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3002,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:09 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room ceiling light
+2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Running script
+2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Executing step device automation
+2020-03-01 18:29:12 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2000,"lastupdated":"2020-03-01T17:29:12"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:12 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2002,"lastupdated":"2020-03-01T17:29:12"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:12 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room light
+2020-03-01 18:29:12 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Running script
+2020-03-01 18:29:12 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Executing step device automation
+2020-03-01 18:29:13 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1000,"lastupdated":"2020-03-01T17:29:13"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:13 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1002,"lastupdated":"2020-03-01T17:29:13"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:13 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room light
+2020-03-01 18:29:13 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Running script
+2020-03-01 18:29:13 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Executing step device automation
+2020-03-01 18:29:17 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:29:17"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:17 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:29:17"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:29:17 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
+2020-03-01 18:29:17 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
+2020-03-01 18:29:17 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
+2020-03-01 18:31:34 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
+2020-03-01 18:32:01 WARNING (MainThread) [homeassistant.components.device_tracker] The 'hide_if_away' option (with value 'False') is deprecated, please remove it from your configuration. This option will become invalid in version 0.107.0
+2020-03-01 18:32:48 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.etkezo_ajto is taking over 10 seconds
+2020-03-01 18:33:20 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.tetoter_utca is taking over 10 seconds
+2020-03-01 18:35:18 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-01 18:35:50 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
+2020-03-01 18:36:55 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 63204).
+2020-03-01 18:36:55 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:36:55 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-01 18:36:55 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-01 18:36:55 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
+2020-03-01 18:37:03 WARNING (MainThread) [homeassistant.components.device_tracker] The 'hide_if_away' option (with value 'False') is deprecated, please remove it from your configuration. This option will become invalid in version 0.107.0
+2020-03-01 18:37:24 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:37:24"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:24 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:37:24"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:24 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
+2020-03-01 18:37:24 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
+2020-03-01 18:37:24 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
+2020-03-01 18:37:25 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2000,"lastupdated":"2020-03-01T17:37:24"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:25 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2002,"lastupdated":"2020-03-01T17:37:25"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:25 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room light
+2020-03-01 18:37:25 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Running script
+2020-03-01 18:37:25 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Executing step device automation
+2020-03-01 18:37:27 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:37:27"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:27 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:37:27"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:27 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
+2020-03-01 18:37:27 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
+2020-03-01 18:37:27 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
+2020-03-01 18:37:27 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3000,"lastupdated":"2020-03-01T17:37:27"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:28 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3002,"lastupdated":"2020-03-01T17:37:28"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:28 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room ceiling light
+2020-03-01 18:37:28 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Running script
+2020-03-01 18:37:28 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Executing step device automation
+2020-03-01 18:37:29 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:37:29"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:29 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:37:29"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
+2020-03-01 18:37:29 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
+2020-03-01 18:37:30 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
+2020-03-01 18:37:30 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
+2020-03-01 18:37:59 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
+2020-03-01 18:38:30 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-01 18:38:35 INFO (MainThread) [homeassistant.helpers.entity_registry] Registered new person.person entity: person.timi_hefelle
+2020-03-01 18:39:01 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
+2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
+2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room light
+2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room light
+2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
+2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
+2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger Set theme at startup
+2020-03-01 18:40:14 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.tetoter_utca is taking over 10 seconds
+2020-03-01 18:41:08 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/update request None
+2020-03-01 18:41:12 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
+2020-03-01 18:41:15 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
+2020-03-01 18:41:16 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
+2020-03-01 18:41:19 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
+2020-03-01 18:42:22 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.zsofi_ablak is taking over 10 seconds
+2020-03-01 18:43:13 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":true,"daylight":false,"lastupdated":"2020-03-01T17:43:12","status":210,"sunrise":"2020-03-01T06:07:28","sunset":"2020-03-01T17:12:26"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}

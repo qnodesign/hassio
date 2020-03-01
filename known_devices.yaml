@@ -1,0 +1,8 @@
+
+qnos_iphone:
+  hide_if_away: false
+  icon:
+  mac: '383762'
+  name: qno’s iPhone
+  picture:
+  track: true

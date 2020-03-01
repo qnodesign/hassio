@@ -1,0 +1,125 @@
+{
+    "data": {
+        "credentials": [
+            {
+                "auth_provider_id": null,
+                "auth_provider_type": "homeassistant",
+                "data": {
+                    "username": "qno"
+                },
+                "id": "193145af2ba6438a8c4f07dc4902e563",
+                "user_id": "42c1f67fd6984d35952738c920d4021a"
+            }
+        ],
+        "groups": [
+            {
+                "id": "system-admin",
+                "name": "Administrators"
+            },
+            {
+                "id": "system-users",
+                "name": "Users"
+            },
+            {
+                "id": "system-read-only",
+                "name": "Read Only"
+            }
+        ],
+        "refresh_tokens": [
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": null,
+                "client_name": null,
+                "created_at": "2020-02-29T21:48:48.367099+00:00",
+                "id": "504d9b2b0e4640bc9a1fa9f3b99e7bc4",
+                "jwt_key": "fb385562e022be208dce225a15afef1fedbed449ddba42578bd15792802fc57d1e908d7d91059b94155217ef98a7a4c12586ccf7c21081dbd2fd17a8de457bd5",
+                "last_used_at": "2020-03-01T17:18:26.577625+00:00",
+                "last_used_ip": "172.30.32.2",
+                "token": "47f4ea9ee4c263d8655099c693689130dbdba26624ef13e95ae4e2e8bfd4e339964b64783c7359be917bea53ac0e6dfc353d27c5aaefbc237580545afe3b773b",
+                "token_type": "system",
+                "user_id": "c65cb471093d4d4cae4eb2bd79913740"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://homeassistant.local:8123/",
+                "client_name": null,
+                "created_at": "2020-02-29T22:07:25.144384+00:00",
+                "id": "151cfc0fa6c2415a9bbc62610a19d6aa",
+                "jwt_key": "3628f5442d1ff8985e6e3b8e4b4ae1a952057b139dbce31896c2c06379dbec3b39e3f81cc6426a065d3d0b50a17e24942b5a4b320fb6e1f121cd1666117d8aec",
+                "last_used_at": "2020-02-29T22:44:33.693365+00:00",
+                "last_used_ip": "192.168.1.123",
+                "token": "262dad66c128692c2af7bbba39525f8ad7a14dfb850aa2d80839f5b9d0e8a6075a25355910d8f9d67f8f163a046d25317078a28e740cb4596021bc442a8dce81",
+                "token_type": "normal",
+                "user_id": "42c1f67fd6984d35952738c920d4021a"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://hassio.local:8123/",
+                "client_name": null,
+                "created_at": "2020-02-29T22:59:56.881802+00:00",
+                "id": "dcb5a2b2eda541bbb1ac56945b6db2fd",
+                "jwt_key": "c189c271e1c81253e6bfc23febdfb36bcc17bb2ea673e8a18c4777330d419f64130516f57d191fe5d12a15681de452424577eb9a6451f1ca8e4e733d03112d5d",
+                "last_used_at": "2020-03-01T15:04:15.087926+00:00",
+                "last_used_ip": "192.168.1.123",
+                "token": "1bd35d0f36a6975067b058de976b65ef19dfd0597c272ee2cab187b1e26f794f7758d11c662bb5b2a81f3c597a470692070066922bf72d686123cbf0dbc09f2c",
+                "token_type": "normal",
+                "user_id": "42c1f67fd6984d35952738c920d4021a"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "https://home-assistant.io/iOS",
+                "client_name": null,
+                "created_at": "2020-03-01T00:15:43.151382+00:00",
+                "id": "141db35ccfe748a8a39b60f8fbbf90a5",
+                "jwt_key": "fc70191d888c11cf34f8a5fa75205837dc2b7689fcb9f47585174c7cdf4f304a8ab89e954f8691ec43ab49a95d0d07b0165eebaf597bc0ab0fec61591024c522",
+                "last_used_at": "2020-03-01T16:08:25.000474+00:00",
+                "last_used_ip": "192.168.1.78",
+                "token": "b21ed462c7ace90a23fbb7792530df7aa907a1e709b4906ecca7cca24c8e332775c63b6dae70953946bef0145ddc35d47ab1f696da73d41637a06d74674b4616",
+                "token_type": "normal",
+                "user_id": "42c1f67fd6984d35952738c920d4021a"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://hassio.local:8123/",
+                "client_name": null,
+                "created_at": "2020-03-01T15:09:37.389927+00:00",
+                "id": "ff0e25864754471abe15a537589ffd83",
+                "jwt_key": "da2367c25db5a9183b13c1d9ece2f307f7e4836064b49b8ded3043d56637f0f8679229307c8a9ef25fa73c239afe4f2740fb90a85ba87dde9f0b44dfe4e84c6f",
+                "last_used_at": "2020-03-01T17:23:41.343258+00:00",
+                "last_used_ip": "192.168.1.123",
+                "token": "55bac28c655743a9ec8ed4264b379e3438e2c24402fbf3bcf58b7eaaf820d669cbc005fafa5720f024a50c90e58d988e14b39b9181ccfac273ee070839c61e1d",
+                "token_type": "normal",
+                "user_id": "42c1f67fd6984d35952738c920d4021a"
+            }
+        ],
+        "users": [
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "c65cb471093d4d4cae4eb2bd79913740",
+                "is_active": true,
+                "is_owner": false,
+                "name": "Hass.io",
+                "system_generated": true
+            },
+            {
+                "group_ids": [
+                    "system-admin"
+                ],
+                "id": "42c1f67fd6984d35952738c920d4021a",
+                "is_active": true,
+                "is_owner": true,
+                "name": "Konrad Hefelle",
+                "system_generated": false
+            }
+        ]
+    },
+    "key": "auth",
+    "version": 1
+}

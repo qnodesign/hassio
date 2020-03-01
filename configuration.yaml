@@ -1,0 +1,56 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+# Uncomment this if you are using SSL/TLS, running in Docker container, etc.
+http:
+  base_url: !secret dns_url
+
+# Text to speech
+tts:
+  platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+# hacs:
+#  token: !secret hacs_token
+#  theme: true
+#  python_script: true
+
+frontend:
+  themes: !include_dir_merge_named themes
+
+homeassistant:
+  auth_mfa_modules:
+    - type: notify
+      message: 'hey {}'
+    - type: totp
+      name: Authenticator app
+
+
+tado:
+  username: !secret tado_user
+  password: !secret tado_pass
+    
+device_tracker:
+  platform: tado
+  username: !secret tado_user
+  password: !secret tado_pass
+  home_id: !secret tado_home
+    
+homekit:
+  filter:
+    include_domains:
+      - cover
+      - light
+      - switch
+      - climate
+      
+logger:
+  default: info
+  logs:
+    pydeconz: debug
+    homeassistant.components.deconz: debug

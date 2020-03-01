@@ -1,0 +1,162 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "track_home": true
+                },
+                "domain": "met",
+                "entry_id": "0f252567c48540699633eec1b13298c6",
+                "options": {},
+                "source": "onboarding",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "unknown",
+                "data": {
+                    "gateway_id": "7e2521520440003f",
+                    "host": "192.168.1.86",
+                    "identity": "cce24ff501de4bbea1f5bc5552037432",
+                    "import_groups": false,
+                    "key": "yHp2kpH96WqrYkJU"
+                },
+                "domain": "tradfri",
+                "entry_id": "8494922cd584457c9c25c2e31897a235",
+                "options": {},
+                "source": "zeroconf",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "192.168.1.86",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "allow_hue_groups": false,
+                    "host": "192.168.1.57",
+                    "username": "nqX65m-n5wwPmF1jvsEk-HeRseKQZhbi3aOArEd6"
+                },
+                "domain": "hue",
+                "entry_id": "a207f1b05a264a768dc3e36a4103d856",
+                "options": {},
+                "source": "homekit",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "qnohue",
+                "unique_id": "2f00d3eef891",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "auth_implementation": "cloud",
+                    "token": {
+                        "access_token": "YTIwZmIyOWJlNzFiMjdmYjY3MjVhMjAzODQwZmYwYzJkZmEzN2YwNDU2ODQ1MmY3NjAxYWM3Mzc3MThlNDQ2MA",
+                        "expires_at": 1583085361.8671217,
+                        "expires_in": 3600,
+                        "refresh_token": "YmY2ODg5NWU3NzE4ZTVkMmQ1ZmFiMmY2YzAxNDVkYjNlYmNmODIwOGViNjM2YTZhYzBmY2Y0M2I2OTUzOGM0OQ",
+                        "scope": "user.basic api.full oa.site oa.user oa.device oa.devicedefinition level.0",
+                        "service": "somfy",
+                        "token_type": "bearer"
+                    }
+                },
+                "domain": "somfy",
+                "entry_id": "65ac8b8bb78a42719ef5a6fa8de1e0d2",
+                "options": {},
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Home Assistant Cloud",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {
+                    "api_key": "0D110F80BD",
+                    "host": "172.30.33.0",
+                    "port": 40850
+                },
+                "domain": "deconz",
+                "entry_id": "fcd05553674743069edd83681333f276",
+                "options": {
+                    "master": true
+                },
+                "source": "hassio",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "00212E0519AC",
+                "unique_id": "00212E0519AC",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "app_data": {
+                        "push_token": "cGHfn7jlrTo:APA91bGpwGUvqx4fCKELmR96vNJLvd2P3OMIWDAV8VQaBf9jZyOf6FfF9WxXWFAEGy_SuHC9OiHXcKITj39zSvgeDoFDljaYiQZ1OhL39zSAg6J3QTX5m8p29kdBw55hWPj21qR6Cd3m",
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+                    },
+                    "app_id": "io.robbie.HomeAssistant",
+                    "app_name": "Home Assistant",
+                    "app_version": "2.0.0 (69)",
+                    "device_id": "cda38a2ae6074d4ba31ce88fa41e0508",
+                    "device_name": "qnoPhone",
+                    "manufacturer": "Apple",
+                    "model": "iPhone Xs",
+                    "os_name": "iOS",
+                    "os_version": "13.3.1",
+                    "secret": "e24f40e8485897982376d6a13242a7f25e6cb93878f55e0029531ae04bf00727",
+                    "supports_encryption": true,
+                    "user_id": "42c1f67fd6984d35952738c920d4021a",
+                    "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
+                },
+                "domain": "mobile_app",
+                "entry_id": "21ad835c35434c0584fb76ba1fc9e777",
+                "options": {},
+                "source": "registration",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "qnoPhone",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "host": "192.168.1.153",
+                    "id": "c36839c1-5209-5dbf-979b-5125146c1c31",
+                    "ip_address": "192.168.1.153",
+                    "manufacturer": "Samsung Electronics",
+                    "method": "legacy",
+                    "model": "UE40D5000",
+                    "name": "Samsung UE40D5000",
+                    "port": null
+                },
+                "domain": "samsungtv",
+                "entry_id": "da615c33a5a94abcb6c8366f303599ff",
+                "options": {},
+                "source": "ssdp",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "UE40D5000",
+                "unique_id": "192.168.1.153",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

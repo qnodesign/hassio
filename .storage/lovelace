@@ -1,0 +1,356 @@
+{
+    "data": {
+        "config": {
+            "title": "qnoHome",
+            "views": [
+                {
+                    "badges": [
+                        {
+                            "entity": "binary_sensor.updater"
+                        },
+                        {
+                            "entity": "person.konrad_hefelle"
+                        },
+                        {
+                            "entity": "sensor.heating_early_start"
+                        },
+                        {
+                            "entity": "sensor.heating_open_window"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_temperature"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_humidity"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_power"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_link"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_heating"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_tado_mode"
+                        },
+                        {
+                            "entity": "sensor.qnophone_distance"
+                        },
+                        {
+                            "entity": "sensor.qnophone_floors_descended"
+                        },
+                        {
+                            "entity": "sensor.qnophone_steps"
+                        },
+                        {
+                            "entity": "sensor.qnophone_sim_1"
+                        },
+                        {
+                            "entity": "sensor.qnophone_connection_type"
+                        },
+                        {
+                            "entity": "sensor.qnophone_floors_ascended"
+                        },
+                        {
+                            "entity": "sensor.qnophone_activity"
+                        },
+                        {
+                            "entity": "sensor.qnophone_battery_level"
+                        },
+                        {
+                            "entity": "sensor.qnophone_ssid"
+                        },
+                        {
+                            "entity": "sensor.qnophone_battery_state"
+                        },
+                        {
+                            "entity": "sensor.qnophone_geocoded_location"
+                        },
+                        {
+                            "entity": "sensor.qnophone_last_update_trigger"
+                        },
+                        {
+                            "entity": "sensor.qnophone_bssid"
+                        },
+                        {
+                            "entity": "sensor.qnophone_average_active_pace"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_overlay"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_early_start"
+                        },
+                        {
+                            "entity": "sensor.heating_temperature"
+                        },
+                        {
+                            "entity": "sensor.roof_bedroom_open_window"
+                        },
+                        {
+                            "entity": "sensor.heating_humidity"
+                        },
+                        {
+                            "entity": "sensor.kitchen_temperature"
+                        },
+                        {
+                            "entity": "sensor.kitchen_humidity"
+                        },
+                        {
+                            "entity": "sensor.kitchen_power"
+                        },
+                        {
+                            "entity": "sensor.kitchen_link"
+                        },
+                        {
+                            "entity": "sensor.kitchen_heating"
+                        },
+                        {
+                            "entity": "sensor.kitchen_tado_mode"
+                        },
+                        {
+                            "entity": "sensor.kitchen_overlay"
+                        },
+                        {
+                            "entity": "sensor.heating_heating"
+                        },
+                        {
+                            "entity": "sensor.kitchen_early_start"
+                        },
+                        {
+                            "entity": "sensor.heating_tado_mode"
+                        },
+                        {
+                            "entity": "sensor.kitchen_open_window"
+                        },
+                        {
+                            "entity": "sensor.hot_water_power"
+                        },
+                        {
+                            "entity": "sensor.hot_water_link"
+                        },
+                        {
+                            "entity": "sensor.hot_water_tado_mode"
+                        },
+                        {
+                            "entity": "sensor.hot_water_overlay"
+                        },
+                        {
+                            "entity": "sensor.heating_power"
+                        },
+                        {
+                            "entity": "sensor.fam_hefelle_tado_bridge_status"
+                        },
+                        {
+                            "entity": "sensor.heating_link"
+                        },
+                        {
+                            "entity": "sensor.heating_overlay"
+                        },
+                        {
+                            "entity": "sun.sun"
+                        }
+                    ],
+                    "cards": [
+                        {
+                            "entities": [
+                                {
+                                    "entity": "light.corridor_light_1",
+                                    "name": "light 1"
+                                },
+                                {
+                                    "entity": "light.corridor_light_2",
+                                    "name": "light 2"
+                                },
+                                {
+                                    "entity": "light.corridor_panel",
+                                    "name": "panel"
+                                }
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Corridor",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "light.guestroom_light_2",
+                                    "name": "light 2"
+                                },
+                                {
+                                    "entity": "light.guestroom_light_1",
+                                    "name": "light 1"
+                                },
+                                {
+                                    "entity": "cover.vendegszoba",
+                                    "name": "cover"
+                                }
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Guestroom",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "light.kitchen_plate_lights",
+                                    "name": "plate lights"
+                                },
+                                "light.hue_ambiance_spot_2",
+                                "light.hue_ambiance_spot_3",
+                                "light.hue_ambiance_spot_4",
+                                "light.hue_ambiance_spot_1",
+                                "light.hue_ambiance_spot_6",
+                                "light.hue_ambiance_spot_5",
+                                {
+                                    "entity": "cover.konyha_ablak",
+                                    "name": "window cover"
+                                },
+                                {
+                                    "entity": "cover.etkezo_ajto",
+                                    "name": "door cover"
+                                }
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Kitchen",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "light.nappali_1",
+                                "light.nappali_2",
+                                "light.hue_lightstrip_plus_1",
+                                "light.nappali_olvasolampa",
+                                "light.nappli_left_top",
+                                "light.nappali_left_bottom",
+                                "light.nappali_right_bottom",
+                                "light.nappali_right_top",
+                                "cover.nappali_ablak",
+                                "cover.kert_terasz_ajto"
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Living Room",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "light.passage_light",
+                                    "name": "light"
+                                }
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Passage",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "cover.roller_shutter",
+                                    "name": "cover"
+                                }
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Roof bathroom",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "light.roof_bedroom_light",
+                                    "name": "light"
+                                },
+                                "light.bed_kuno",
+                                "light.bed_timi",
+                                {
+                                    "entity": "cover.tetoter_utca",
+                                    "name": "cover"
+                                }
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Roof bedroom",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                {
+                                    "entity": "switch.roof_living_room_ceiling_light",
+                                    "name": "ceiling light"
+                                },
+                                {
+                                    "entity": "light.roof_living_room_light",
+                                    "name": "light"
+                                },
+                                "cover.tetoter_kert",
+                                "sensor.daylight"
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Roof living room",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "light.dora_table",
+                                "light.dora_bulb",
+                                "cover.dori"
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Room Dora",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "light.sophie_light_1",
+                                "light.sophie_light_2",
+                                "cover.zsofi_ablak",
+                                "cover.zsofi_ajto"
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Room Zsofi",
+                            "type": "entities"
+                        },
+                        {
+                            "entities": [
+                                "sensor.terasz_sensor_temperature",
+                                "sensor.terasz_sensor_light_level",
+                                "binary_sensor.terasz_sensor_motion"
+                            ],
+                            "show_header_toggle": true,
+                            "title": "Teracce",
+                            "type": "entities"
+                        },
+                        {
+                            "entity": "climate.roof_bedroom",
+                            "type": "thermostat"
+                        },
+                        {
+                            "entity": "climate.heating",
+                            "type": "thermostat"
+                        },
+                        {
+                            "entity": "climate.kitchen",
+                            "type": "thermostat"
+                        },
+                        {
+                            "entities": [
+                                "water_heater.hot_water"
+                            ],
+                            "title": "",
+                            "type": "entities"
+                        },
+                        {
+                            "entity": "weather.qnohome",
+                            "type": "weather-forecast"
+                        }
+                    ],
+                    "path": "default_view",
+                    "title": "Home"
+                }
+            ]
+        }
+    },
+    "key": "lovelace",
+    "version": 1
+}

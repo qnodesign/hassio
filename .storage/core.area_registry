@@ -1,0 +1,56 @@
+{
+    "data": {
+        "areas": [
+            {
+                "id": "2cf5a168662e49bead2ce7f609ca6762",
+                "name": "Living Room"
+            },
+            {
+                "id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "name": "Kitchen"
+            },
+            {
+                "id": "2673af502f3542a88374b5a41ed4b3d3",
+                "name": "Bedroom"
+            },
+            {
+                "id": "97e5eb1a78fb453f8df642f9c45a51f2",
+                "name": "Passage"
+            },
+            {
+                "id": "e44a959788b14cfcaf9bc601787a8bcf",
+                "name": "Room Zsofi"
+            },
+            {
+                "id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "name": "Roof bedroom"
+            },
+            {
+                "id": "93bc58c4456c4a89abc1bcb021b8e691",
+                "name": "Corridor"
+            },
+            {
+                "id": "3c4c715127ee411baeeb7caeda0b627a",
+                "name": "Guestroom"
+            },
+            {
+                "id": "6c30cd24d62c4c2c9262ac3601b2a61f",
+                "name": "Room Dora"
+            },
+            {
+                "id": "4e370e85051d4f80996e03d751e90583",
+                "name": "Roof living room"
+            },
+            {
+                "id": "f7a6e586c92b45fbb40453b1be3c102d",
+                "name": "Teracce"
+            },
+            {
+                "id": "59ec234a78944275b639a425ca67adc7",
+                "name": "Roof bathroom"
+            }
+        ]
+    },
+    "key": "core.area_registry",
+    "version": 1
+}

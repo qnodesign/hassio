@@ -1,0 +1,100 @@
+- alias: turn on roof living room light
+  description: ''
+  trigger:
+    platform: event
+    event_data:
+      event: 1002
+      id: foh_switch
+    event_type: deconz_event
+  action:
+    device_id: 670293be3a744bcf862db1796cb8a56f
+    domain: light
+    entity_id: light.roof_living_room_light
+    type: turn_on
+
+- alias: turn off roof living room light
+  description: ''
+  trigger:
+    platform: event
+    event_data:
+      event: 2002
+      id: foh_switch
+    event_type: deconz_event
+  action:
+    device_id: 670293be3a744bcf862db1796cb8a56f
+    domain: light
+    entity_id: light.roof_living_room_light
+    type: turn_off
+    
+- alias: turn on roof living room ceiling light
+  description: ''
+  trigger:
+    platform: event
+    event_data:
+      event: 3002
+      id: foh_switch
+    event_type: deconz_event
+  action:
+    device_id: 0c8e5e51d9af4352a16eed25f98dfbbe
+    domain: switch
+    entity_id: switch.roof_living_room_ceiling_light
+    type: turn_on
+    
+- alias: turn off roof living room ceiling light
+  description: ''
+  trigger:
+    platform: event
+    event_data:
+      event: 4002
+      id: foh_switch
+    event_type: deconz_event
+  action:
+    device_id: 0c8e5e51d9af4352a16eed25f98dfbbe
+    domain: switch
+    entity_id: switch.roof_living_room_ceiling_light
+    type: turn_off
+    
+- alias: turn on roof living room ceiling light
+  description: ''
+  trigger:
+    platform: event
+    event_data:
+      event: 5002
+      id: foh_switch
+    event_type: deconz_event
+  action:
+  - device_id: 0c8e5e51d9af4352a16eed25f98dfbbe
+    domain: switch
+    entity_id: switch.roof_living_room_ceiling_light
+    type: turn_on
+  - device_id: 670293be3a744bcf862db1796cb8a56f
+    domain: light
+    entity_id: light.roof_living_room_light
+    type: turn_on
+    
+- alias: turn off roof living room ceiling light
+  description: ''
+  trigger:
+    platform: event
+    event_data:
+      event: 6002
+      id: foh_switch
+    event_type: deconz_event
+  action:
+  - device_id: 0c8e5e51d9af4352a16eed25f98dfbbe
+    domain: switch
+    entity_id: switch.roof_living_room_ceiling_light
+    type: turn_off
+  - device_id: 670293be3a744bcf862db1796cb8a56f
+    domain: light
+    entity_id: light.roof_living_room_light
+    type: turn_off
+    
+- alias: 'Set theme at startup'
+  trigger:
+  - platform: homeassistant
+    event: start
+  action:
+    service: frontend.set_theme
+    data:
+      name: ios-dark-mode

@@ -1,0 +1,22 @@
+{
+    "data": {
+        "items": [
+            {
+                "device_trackers": [
+                    "device_tracker.qnophone"
+                ],
+                "id": "konrad_hefelle",
+                "name": "Konrad Hefelle",
+                "user_id": "42c1f67fd6984d35952738c920d4021a"
+            },
+            {
+                "device_trackers": [],
+                "id": "timi_hefelle",
+                "name": "Timi Hefelle",
+                "user_id": null
+            }
+        ]
+    },
+    "key": "person",
+    "version": 2
+}

@@ -1,0 +1,1228 @@
+{
+    "data": {
+        "devices": [
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "97a45a9a8e3d47378a2d24f4119868e3",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        "7e2521520440003f"
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "E1526",
+                "name": "Gateway",
+                "name_by_user": null,
+                "sw_version": "1.10.29",
+                "via_device_id": null
+            },
+            {
+                "area_id": "97e5eb1a78fb453f8df642f9c45a51f2",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "6ad4c2c9c4cf4ca28cfda056291d81da",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65597
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI on/off switch",
+                "name": "Passage switch",
+                "name_by_user": null,
+                "sw_version": "2.2.010",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "e44a959788b14cfcaf9bc601787a8bcf",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "c5277d4bba3d455990c3faf3169aab89",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65553
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI remote control",
+                "name": "Zs\u00f3fi kapcsol\u00f3",
+                "name_by_user": null,
+                "sw_version": "2.3.014",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "e9b2569f7ca1486992a7a20b123ee020",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65598
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI on/off switch",
+                "name": "Bed switch Timi",
+                "name_by_user": null,
+                "sw_version": "2.2.008",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "93bc58c4456c4a89abc1bcb021b8e691",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "78be7d40cf0540928c64f3ff58856ec9",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65583
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI remote control",
+                "name": "Corridor remote 2",
+                "name_by_user": null,
+                "sw_version": "2.3.014",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "93bc58c4456c4a89abc1bcb021b8e691",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "d9785a53b2aa4027aeeb487c76399ecb",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65585
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI remote control",
+                "name": "Corridor remote 1",
+                "name_by_user": null,
+                "sw_version": "2.3.014",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "4c862d5c41bf48f1a571c0480ac54e23",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65547
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI remote control",
+                "name": "Roof bedroom remote",
+                "name_by_user": null,
+                "sw_version": "2.3.014",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "8f5ba1d795aa48b78801706da32c949c",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65604
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI remote control",
+                "name": "Kitchen remote",
+                "name_by_user": null,
+                "sw_version": "2.3.014",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "3c4c715127ee411baeeb7caeda0b627a",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "585f4b8dd9944e18b5f79d9036ea8be5",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65567
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI remote control",
+                "name": "Guestroom remote",
+                "name_by_user": null,
+                "sw_version": "2.3.014",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "b0ecd47cbb504549a0a4c048f44b1e05",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65600
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI on/off switch",
+                "name": "Bed switch Kuno",
+                "name_by_user": null,
+                "sw_version": "2.2.010",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "6c30cd24d62c4c2c9262ac3601b2a61f",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "fdf4c6306b964e9f9545ec68c40e1328",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65592
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI remote control",
+                "name": "Dora remote",
+                "name_by_user": null,
+                "sw_version": "2.3.014",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "4e370e85051d4f80996e03d751e90583",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "0c8e5e51d9af4352a16eed25f98dfbbe",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65603
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI control outlet",
+                "name": "Roof living room ceiling light",
+                "name_by_user": null,
+                "sw_version": "2.0.022",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "4e370e85051d4f80996e03d751e90583",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "670293be3a744bcf862db1796cb8a56f",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65568
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 opal 1000lm",
+                "name": "Roof living room light",
+                "name_by_user": null,
+                "sw_version": "1.2.214",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "93bc58c4456c4a89abc1bcb021b8e691",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "c71589fc91a940189399284a0b8a4411",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65581
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 WS opal 980lm",
+                "name": "Corridor light 1",
+                "name_by_user": null,
+                "sw_version": "2.3.007",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "93bc58c4456c4a89abc1bcb021b8e691",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "e9c551ae1de74a8c855ca43fa6ad0c45",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65582
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 WS opal 980lm",
+                "name": "Corridor light 2",
+                "name_by_user": null,
+                "sw_version": "2.3.007",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "93bc58c4456c4a89abc1bcb021b8e691",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "eef542e1cf014932a541f574bd2055ae",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65588
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "FLOALT panel WS 30x30",
+                "name": "Corridor panel",
+                "name_by_user": null,
+                "sw_version": "1.2.217",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "87e0b8d3d0664fa7947df9a980a9a087",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65605
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI Driver 30W",
+                "name": "Kitchen plate lights",
+                "name_by_user": null,
+                "sw_version": "1.2.245",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "ed0b7b2a54bb4c9985e3b63c43593103",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65550
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 CWS opal 600lm",
+                "name": "Roof bedroom light",
+                "name_by_user": null,
+                "sw_version": "1.3.009",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "e44a959788b14cfcaf9bc601787a8bcf",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "3dff7c362fc9451c99892b6837a31807",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65554
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 WS opal 980lm",
+                "name": "Sophie light 1",
+                "name_by_user": null,
+                "sw_version": "2.3.007",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "96000011ec96447ab8f8812fb4637ba7",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65601
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E14 W op/ch 400lm",
+                "name": "Bed Kuno",
+                "name_by_user": null,
+                "sw_version": "1.2.214",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "3c4c715127ee411baeeb7caeda0b627a",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "1725dc89bcd34c429b7e8dca20949a0d",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65569
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 WS opal 980lm",
+                "name": "Guestroom light 2",
+                "name_by_user": null,
+                "sw_version": "2.3.007",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "75e109b547de48d59abda23a850dba99",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65599
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E14 W op/ch 400lm",
+                "name": "Bed Timi",
+                "name_by_user": null,
+                "sw_version": "1.2.214",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "e44a959788b14cfcaf9bc601787a8bcf",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "a2b1c6a156814b0a9dcc4ffd2665e941",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65555
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 WS opal 980lm",
+                "name": "Sophie light 2",
+                "name_by_user": null,
+                "sw_version": "2.3.007",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "3c4c715127ee411baeeb7caeda0b627a",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "ee0f955ffe6d47e6b4e37c0d7d1a7030",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65570
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 opal 1000lm",
+                "name": "Guestroom light 1",
+                "name_by_user": null,
+                "sw_version": "1.2.214",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "97e5eb1a78fb453f8df642f9c45a51f2",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "7e10fdb73f5c45918cfedd350d133d5e",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65596
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E14 W op/ch 400lm",
+                "name": "Passage light",
+                "name_by_user": null,
+                "sw_version": "1.2.214",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "6c30cd24d62c4c2c9262ac3601b2a61f",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "5972253b1eb643a8811b454516fea262",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65593
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI Driver 10W",
+                "name": "Dora table",
+                "name_by_user": null,
+                "sw_version": "1.2.245",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "6c30cd24d62c4c2c9262ac3601b2a61f",
+                "config_entries": [
+                    "8494922cd584457c9c25c2e31897a235"
+                ],
+                "connections": [],
+                "id": "d9351aa357ac4972bf4a38a039c56fa6",
+                "identifiers": [
+                    [
+                        "tradfri",
+                        65594
+                    ]
+                ],
+                "manufacturer": "IKEA of Sweden",
+                "model": "TRADFRI bulb E27 WS opal 1000lm",
+                "name": "Dora bulb",
+                "name_by_user": null,
+                "sw_version": "2.0.023",
+                "via_device_id": "97a45a9a8e3d47378a2d24f4119868e3"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:17:88:2c:72:93"
+                    ]
+                ],
+                "id": "2afa7f8f6581451e9473f42ce998b4c9",
+                "identifiers": [
+                    [
+                        "hue",
+                        "001788FFFE2C7293"
+                    ]
+                ],
+                "manufacturer": "Signify",
+                "model": "BSB002",
+                "name": "qnohue",
+                "name_by_user": null,
+                "sw_version": "1937045000",
+                "via_device_id": null
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "d86db2f298bd4202bab0bd651fdb3f39",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:2a:95:51-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color lamp",
+                "name": "Nappali 1",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "55950d2b999d49539a72056b6a3a92c8",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:3e:ab:55-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue ambiance spot",
+                "name": "Hue ambiance spot 2",
+                "name_by_user": null,
+                "sw_version": "1.65.9_hB3217DF",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "4d7d072b80084fdd8a85e86c9bfd491c",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:2b:a6:de-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color lamp",
+                "name": "Nappali 2",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "eb3444b54e394880aff151e95f174118",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:03:e2:aa:90-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue lightstrip plus",
+                "name": "Hue lightstrip plus 1",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "97f8f5b2cdc3496fa2f1b16433cf4cc8",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:3e:ca:1a-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue ambiance spot",
+                "name": "Hue ambiance spot 3",
+                "name_by_user": null,
+                "sw_version": "1.65.9_hB3217DF",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "ddfb4f468a5e4a4596150354469fac85",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:45:6e:0f-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue ambiance spot",
+                "name": "Hue ambiance spot 4",
+                "name_by_user": null,
+                "sw_version": "1.65.9_hB3217DF",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "c0a326c1e006450fa155169bc3f48fb6",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:04:47:96:1e-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue ambiance spot",
+                "name": "nappali olvasolampa",
+                "name_by_user": null,
+                "sw_version": "1.46.13_r26312",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "42f74795f0c14fa795543e3ce048db56",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:3c:90:aa-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color spot",
+                "name": "nappli left top",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "10e0d880d94d4260967c3b27fba6f35f",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:45:6e:88-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue ambiance spot",
+                "name": "Hue ambiance spot 1",
+                "name_by_user": null,
+                "sw_version": "1.65.9_hB3217DF",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "7b5bbf72262f43d1908acfa0d0575cf5",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:35:ad:e8-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color spot",
+                "name": "nappali left bottom",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "cd030a8b97f14126896267584fc1a1ea",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:3c:77:df-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color spot",
+                "name": "nappali right bottom",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "e9caa0e61e7f4bb498d1a0b2f728b889",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:45:5d:e5-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue ambiance spot",
+                "name": "Hue ambiance spot 6",
+                "name_by_user": null,
+                "sw_version": "1.65.9_hB3217DF",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "79fa9e1b1f304428894849d5ecaf4ad3",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:08:45:7b:f4-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue ambiance spot",
+                "name": "Hue ambiance spot 5",
+                "name_by_user": null,
+                "sw_version": "1.65.9_hB3217DF",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "cdafc8466ba848ce96782a4ece211ec1",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:3c:5f:b8-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue color spot",
+                "name": "nappali right top",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "f7a6e586c92b45fbb40453b1be3c102d",
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "d5568076137f4503b8eeac21d932eaf4",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:04:b7:2d:80"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue motion sensor",
+                "name": "Terasz sensor",
+                "name_by_user": null,
+                "sw_version": "6.1.1.27575",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "6c30cd24d62c4c2c9262ac3601b2a61f",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "40fdbc21ce57478394376ce4a3ac43e9",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "086c8ff9-c04caf76-ec35d94d-e2780f26"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Room dora cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "e44a959788b14cfcaf9bc601787a8bcf",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "2af69af95a72440b829c23c8e61c4957",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "80bf3879-c1311f63-53dd0051-560e0a2c"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Room Zs window cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "e44a959788b14cfcaf9bc601787a8bcf",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "e166de8f407e43e584fd99f04946fe5a",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "392d726f-9db5d41d-3b431845-b0cb60f3"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Room Zs door cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "59ec234a78944275b639a425ca67adc7",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "b49c094a483546a0a6547e7aaf92b9fb",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "26703fde-fbd32ad4-e92449cc-3710ddc7"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "roller_shutter_positionable_stateful_roof",
+                "name": "Roof bathroom cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "5c914f63f6a44b7aaf8d89e2f6ab233d",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "79c1cb4e4a424179b63d838bd707a435",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "80c0785f-65b24f17-dd8e73b7-01f3d876"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Roof bedroom cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "70882d0be6dd441495e92500b3a5e287",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "fca61726-2d9ad2ca-7329facc-668be420"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Kitchen window cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "d3199728cac7457389a87a7c61ef515f",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "a0f04506-bff1501a-00fd2c55-8d5c0fe8"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Livingr window cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "4e370e85051d4f80996e03d751e90583",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "8734ad18d1b14517ad7eba0d9f6dab6a",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "6b6cf875-47bd98da-c753338a-aede0120"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Roof livingr cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "3c4c715127ee411baeeb7caeda0b627a",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "a64cad06a08e49ca8995fc5631cf2323",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "3ab1fdec-257fd88c-b2c0ccf6-91eb221b"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Guestroom cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "6aef04ff8d9b45caa46efc282647301b",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "a573190d-6da6be2f-47b479fc-e3604f18"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Livingr door cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "f3d4cff0e2bf4e3c943bccb3a08bd0df",
+                "config_entries": [
+                    "65ac8b8bb78a42719ef5a6fa8de1e0d2"
+                ],
+                "connections": [],
+                "id": "3e55f50c8c904bddab10691cd03f5ae8",
+                "identifiers": [
+                    [
+                        "somfy",
+                        "0ff041b5-7e065f87-74f9359d-34587df7"
+                    ]
+                ],
+                "manufacturer": "Somfy",
+                "model": "exterior_blind_positionable_orientable_stateful_generic",
+                "name": "Kitchen door cover",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "4e370e85051d4f80996e03d751e90583",
+                "config_entries": [
+                    "fcd05553674743069edd83681333f276"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "02:42:ac:1e:21:00"
+                    ]
+                ],
+                "id": "162c81dc14b64365917ab02a8ef15c66",
+                "identifiers": [
+                    [
+                        "deconz",
+                        "00212E0519AC"
+                    ]
+                ],
+                "manufacturer": "Dresden Elektronik",
+                "model": "deCONZ",
+                "name": "qnoConBee",
+                "name_by_user": null,
+                "sw_version": "2.5.74",
+                "via_device_id": null
+            },
+            {
+                "area_id": "4e370e85051d4f80996e03d751e90583",
+                "config_entries": [
+                    "fcd05553674743069edd83681333f276"
+                ],
+                "connections": [
+                    [
+                        "zigbee",
+                        "00:00:00:00:01:70:f1:dd"
+                    ]
+                ],
+                "id": "6e94b5dcd54c4d1a9fec7a5c05336373",
+                "identifiers": [
+                    [
+                        "deconz",
+                        "00:00:00:00:01:70:f1:dd"
+                    ]
+                ],
+                "manufacturer": "PhilipsFoH",
+                "model": "FOHSWITCH",
+                "name": "FoH switch",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "162c81dc14b64365917ab02a8ef15c66"
+            },
+            {
+                "area_id": "4e370e85051d4f80996e03d751e90583",
+                "config_entries": [
+                    "fcd05553674743069edd83681333f276"
+                ],
+                "connections": [
+                    [
+                        "zigbee",
+                        "00:21:2e:ff:ff:05:19:ac"
+                    ]
+                ],
+                "id": "2d48714fe9c64ddbb9c96a2eea74ebfa",
+                "identifiers": [
+                    [
+                        "deconz",
+                        "00:21:2e:ff:ff:05:19:ac"
+                    ]
+                ],
+                "manufacturer": "dresden elektronik",
+                "model": "ConBee II",
+                "name": "Unknown 1",
+                "name_by_user": null,
+                "sw_version": "0x264a0700",
+                "via_device_id": "162c81dc14b64365917ab02a8ef15c66"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "21ad835c35434c0584fb76ba1fc9e777"
+                ],
+                "connections": [],
+                "id": "b6ae67326cb14caf89b7fad587e5d646",
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "cda38a2ae6074d4ba31ce88fa41e0508"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone Xs",
+                "name": "qnoPhone",
+                "name_by_user": null,
+                "sw_version": "13.3.1",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "a207f1b05a264a768dc3e36a4103d856"
+                ],
+                "connections": [],
+                "id": "a4cbaff5bade460bb8eec1b758063958",
+                "identifiers": [
+                    [
+                        "hue",
+                        "00:17:88:01:10:29:63:ad-0b"
+                    ]
+                ],
+                "manufacturer": "Signify Netherlands B.V.",
+                "model": "Hue white lamp",
+                "name": "Hue white lamp 1",
+                "name_by_user": null,
+                "sw_version": "5.127.1.26420",
+                "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
+            },
+            {
+                "area_id": "2cf5a168662e49bead2ce7f609ca6762",
+                "config_entries": [
+                    "da615c33a5a94abcb6c8366f303599ff"
+                ],
+                "connections": [],
+                "id": "b4e6f2c7b115417bb53550ae4548a576",
+                "identifiers": [
+                    [
+                        "samsungtv",
+                        "c36839c1-5209-5dbf-979b-5125146c1c31"
+                    ]
+                ],
+                "manufacturer": "Samsung Electronics",
+                "model": "UE40D5000",
+                "name": "Samsung UE40D5000",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            }
+        ]
+    },
+    "key": "core.device_registry",
+    "version": 1
+}
