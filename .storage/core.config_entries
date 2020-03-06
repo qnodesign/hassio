@@ -60,10 +60,10 @@
                 "data": {
                     "auth_implementation": "cloud",
                     "token": {
-                        "access_token": "YTIwZmIyOWJlNzFiMjdmYjY3MjVhMjAzODQwZmYwYzJkZmEzN2YwNDU2ODQ1MmY3NjAxYWM3Mzc3MThlNDQ2MA",
-                        "expires_at": 1583085361.8671217,
+                        "access_token": "ZDQxNmFjYTU4MWQ4ZWFlZjE3YThmZGI5MzE0MGFkNmU3YTc5MzVhYmRkOWQwYTlhODM3YjZhYjFlODNmM2VjNw",
+                        "expires_at": 1583534228.9110298,
                         "expires_in": 3600,
-                        "refresh_token": "YmY2ODg5NWU3NzE4ZTVkMmQ1ZmFiMmY2YzAxNDVkYjNlYmNmODIwOGViNjM2YTZhYzBmY2Y0M2I2OTUzOGM0OQ",
+                        "refresh_token": "NjYzODExYTgwNzkxMzI1ZjhkYjMyOWJmZGMzMGM2ZGU3NmFiMDMwOTRmYmY5ZjcwNjBiMDJmOWYyNTkzYWEyZQ",
                         "scope": "user.basic api.full oa.site oa.user oa.device oa.devicedefinition level.0",
                         "service": "somfy",
                         "token_type": "bearer"
@@ -101,38 +101,6 @@
                 "version": 1
             },
             {
-                "connection_class": "cloud_push",
-                "data": {
-                    "app_data": {
-                        "push_token": "cGHfn7jlrTo:APA91bGpwGUvqx4fCKELmR96vNJLvd2P3OMIWDAV8VQaBf9jZyOf6FfF9WxXWFAEGy_SuHC9OiHXcKITj39zSvgeDoFDljaYiQZ1OhL39zSAg6J3QTX5m8p29kdBw55hWPj21qR6Cd3m",
-                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
-                    },
-                    "app_id": "io.robbie.HomeAssistant",
-                    "app_name": "Home Assistant",
-                    "app_version": "2.0.0 (69)",
-                    "device_id": "cda38a2ae6074d4ba31ce88fa41e0508",
-                    "device_name": "qnoPhone",
-                    "manufacturer": "Apple",
-                    "model": "iPhone Xs",
-                    "os_name": "iOS",
-                    "os_version": "13.3.1",
-                    "secret": "e24f40e8485897982376d6a13242a7f25e6cb93878f55e0029531ae04bf00727",
-                    "supports_encryption": true,
-                    "user_id": "42c1f67fd6984d35952738c920d4021a",
-                    "webhook_id": "fa1202e5503fd2e08c09b7258ce8b175df904777c9d7886f23dd8d32283423a7"
-                },
-                "domain": "mobile_app",
-                "entry_id": "21ad835c35434c0584fb76ba1fc9e777",
-                "options": {},
-                "source": "registration",
-                "system_options": {
-                    "disable_new_entities": false
-                },
-                "title": "qnoPhone",
-                "unique_id": null,
-                "version": 1
-            },
-            {
                 "connection_class": "local_poll",
                 "data": {
                     "host": "192.168.1.153",
@@ -153,6 +121,96 @@
                 },
                 "title": "UE40D5000",
                 "unique_id": "192.168.1.153",
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "appdaemon": true,
+                    "python_script": false,
+                    "sidepanel_icon": "mdi:alpha-c-box",
+                    "sidepanel_title": "Community",
+                    "theme": false,
+                    "token": "fc34c4fdf34b612aa40a862057435326e2c5c9a3"
+                },
+                "domain": "hacs",
+                "entry_id": "d02efab0aa18477ea4eb6c48f25ca118",
+                "options": {
+                    "country": "ALL",
+                    "debug": false,
+                    "experimental": true,
+                    "release_limit": 5
+                },
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "app_data": {
+                        "push_token": "d9gdOnI9HPw:APA91bEeGtJOwW6mpYn0x6hMoWuODUYolMOeDMOe8NuWCTFvuHqKz_oVsw_NLLj1dthEJONAbcK83VUU5-KVBPzNBAtpSqa5cx3HuJqtL84MeCSESks2VaxfQ09mnkIzNGBpYnV_9ECZ",
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+                    },
+                    "app_id": "io.robbie.HomeAssistant",
+                    "app_name": "Home Assistant",
+                    "app_version": "2.0.0 (69)",
+                    "device_id": "196a29a2d7894126a567d8607573f759",
+                    "device_name": "Timi\u2019s iPhone",
+                    "manufacturer": "Apple",
+                    "model": "iPhone 8",
+                    "os_name": "iOS",
+                    "os_version": "13.3.1",
+                    "secret": "c3fd334fc6be0e2d20d3b2563fa2e12369c126c90cc2bdff5e1fd9f30c90d494",
+                    "supports_encryption": true,
+                    "user_id": "49d97bba659440e8b5baed011670288b",
+                    "webhook_id": "a61f185b220fb71d0f896933b09b24281de86f89ed320a091e5b9259416cb685"
+                },
+                "domain": "mobile_app",
+                "entry_id": "f2f059d8e0484e5f86dacb6f2f80fdd6",
+                "options": {},
+                "source": "registration",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Timi\u2019s iPhone",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_push",
+                "data": {
+                    "app_data": {
+                        "push_token": "eUfn20o4A2Q:APA91bHiqza3dUWOMEQfpxvpvs7UqDutFugKyXWKYsunx8jWYwEO0-f-rSJKbpRvo3ydqRL7JGJhCuSQtKXurqqbgG8RQt2GPfKGa4NpgKlZQHAt9an5lMMBbPGZ6rpATRfdfK_Pv0Cd",
+                        "push_url": "https://mobile-apps.home-assistant.io/api/sendPushNotification"
+                    },
+                    "app_id": "io.robbie.HomeAssistant",
+                    "app_name": "Home Assistant",
+                    "app_version": "2.0.0 (69)",
+                    "device_id": "fc73e7ec73494b24b9d3b3a9bf43a3b1",
+                    "device_name": "qnoPhone",
+                    "manufacturer": "Apple",
+                    "model": "iPhone Xs",
+                    "os_name": "iOS",
+                    "os_version": "13.3.1",
+                    "secret": "198ecbc818e0d6c8570483d6020f89669a99d9c454e24f7085b0c110e3157469",
+                    "supports_encryption": true,
+                    "user_id": "42c1f67fd6984d35952738c920d4021a",
+                    "webhook_id": "8d343e8c604a7b18475675e6845eb99b24d082f9354ee2443d36a9f2d9ee7f37"
+                },
+                "domain": "mobile_app",
+                "entry_id": "078693fdd2174b9289111cef1b282fbd",
+                "options": {},
+                "source": "registration",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "qnoPhone",
+                "unique_id": null,
                 "version": 1
             }
         ]

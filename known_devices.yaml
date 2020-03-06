@@ -1,8 +1,32 @@
 
+# qnoPhone:
+  # hide_if_away: false
+  # icon:
+  # mac: '383762'
+  # name: qno’s iPhone
+  # picture:
+  # track: true
+
+# timis_iphone:
+  # hide_if_away: false
+  # icon:
+  # mac: '383762'
+  # name: Timis’s iPhone
+  # picture:
+  # track: true
+
 qnos_iphone:
   hide_if_away: false
   icon:
   mac: '383762'
   name: qno’s iPhone
+  picture:
+  track: true
+
+'1423763':
+  hide_if_away: false
+  icon:
+  mac: '1423763'
+  name: '1423763'
   picture:
   track: true

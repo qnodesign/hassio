@@ -1,194 +1,538 @@
 {
     "data": [
         {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
             "state": {
                 "attributes": {
                     "editable": true,
-                    "friendly_name": "Konrad Hefelle",
-                    "gps_accuracy": 100,
+                    "entity_picture": "/local/me.jpg",
+                    "friendly_name": "Kuno",
+                    "gps_accuracy": 65,
                     "id": "konrad_hefelle",
-                    "latitude": 47.27882594181315,
-                    "longitude": 8.45913201570511,
+                    "latitude": 47.278778076171875,
+                    "longitude": 8.459028627230266,
                     "source": "device_tracker.qnophone",
                     "user_id": "42c1f67fd6984d35952738c920d4021a"
                 },
                 "context": {
-                    "id": "202559ea9203474eaec020fe7326eeba",
+                    "id": "7ccca2fbcb8845eaa0a47eeb5071189b",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "person.konrad_hefelle",
-                "last_changed": "2020-03-01T17:23:30.460972+00:00",
-                "last_updated": "2020-03-01T17:23:36.143040+00:00",
+                "entity_id": "person.kuno_2",
+                "last_changed": "2020-03-06T15:14:10.228869+00:00",
+                "last_updated": "2020-03-06T21:54:01.442171+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
             "state": {
                 "attributes": {
-                    "friendly_name": "turn on roof living room ceiling light",
-                    "last_triggered": "2020-03-01T17:21:22.163829+00:00"
+                    "editable": true,
+                    "entity_picture": "/local/timi.jpg",
+                    "friendly_name": "Timi",
+                    "gps_accuracy": 65,
+                    "id": "timi_hefelle",
+                    "latitude": 47.27960205078125,
+                    "longitude": 8.45865291702353,
+                    "source": "device_tracker.timis_iphone",
+                    "user_id": "49d97bba659440e8b5baed011670288b"
                 },
                 "context": {
-                    "id": "19ff25d9159f4abf9ebd699e30f79e09",
+                    "id": "cb8af81cc46a4617842825c2fb518e23",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "automation.turn_on_roof_living_room_ceiling_light_3",
-                "last_changed": "2020-03-01T17:23:30.463134+00:00",
-                "last_updated": "2020-03-01T17:23:30.463134+00:00",
+                "entity_id": "person.timi",
+                "last_changed": "2020-03-06T15:14:10.572139+00:00",
+                "last_updated": "2020-03-06T15:14:23.830460+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "entity_picture": "/local/zs.jpg",
+                    "friendly_name": "Zsofi",
+                    "id": "zsofi"
+                },
+                "context": {
+                    "id": "858f0142db3940b489447ccad4ce8441",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.zsofi",
+                "last_changed": "2020-03-06T15:14:11.209994+00:00",
+                "last_updated": "2020-03-06T15:14:23.832711+00:00",
+                "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "turn off roof living room ceiling light",
+                    "id": "23b060f4db91440db94538cc26473f58",
+                    "last_triggered": "2020-03-05T05:45:55.566992+00:00"
+                },
+                "context": {
+                    "id": "c001d667a6c24f5393801869ac9956c6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.turn_off_roof_living_room_ceiling_light_4",
+                "last_changed": "2020-03-06T15:14:11.455332+00:00",
+                "last_updated": "2020-03-06T15:14:11.455332+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "turn off roof living room ceiling light",
-                    "last_triggered": "2020-03-01T17:21:13.041482+00:00"
+                    "id": "a1f7e9f45c294e87a885030920ab420b",
+                    "last_triggered": "2020-03-05T22:49:42.683120+00:00"
                 },
                 "context": {
-                    "id": "793da9e521974b0fb158021fba8b3ee7",
+                    "id": "55d96e6144474635ab72b9881b061224",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.turn_off_roof_living_room_ceiling_light",
-                "last_changed": "2020-03-01T17:23:30.464811+00:00",
-                "last_updated": "2020-03-01T17:23:30.464811+00:00",
+                "last_changed": "2020-03-06T15:14:11.459454+00:00",
+                "last_updated": "2020-03-06T15:14:11.459454+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Set theme at startup",
-                    "last_triggered": "2020-03-01T17:23:36.262282+00:00"
+                    "id": "f479fc83e96f4171b27cb5496a5ff7a7",
+                    "last_triggered": "2020-03-06T15:14:23.955486+00:00"
                 },
                 "context": {
-                    "id": "99c9f3ccddba4bdd899f66ef7bd05c8b",
+                    "id": "e9ca9adc4dcc4066b7a0f6f37a0796bb",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.set_theme_at_startup",
-                "last_changed": "2020-03-01T17:23:30.466332+00:00",
-                "last_updated": "2020-03-01T17:23:36.263025+00:00",
+                "last_changed": "2020-03-06T15:14:11.462017+00:00",
+                "last_updated": "2020-03-06T15:14:23.956143+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "turn on roof living room light",
-                    "last_triggered": "2020-03-01T17:29:13.525037+00:00"
-                },
-                "context": {
-                    "id": "3f77cd86a653451fb34153f56c075e78",
-                    "parent_id": "d559b032e16748d38b3f4c17df6fdc98",
-                    "user_id": null
-                },
-                "entity_id": "automation.turn_on_roof_living_room_light",
-                "last_changed": "2020-03-01T17:23:30.467802+00:00",
-                "last_updated": "2020-03-01T17:29:13.525595+00:00",
-                "state": "on"
-            }
-        },
-        {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "turn off roof living room light",
-                    "last_triggered": "2020-03-01T17:37:26.078489+00:00"
-                },
-                "context": {
-                    "id": "c1b17c6e71d34228ae4eb654feadf58c",
-                    "parent_id": "4099399807394b77a7da5fc83afe2b61",
-                    "user_id": null
-                },
-                "entity_id": "automation.turn_off_roof_living_room_light",
-                "last_changed": "2020-03-01T17:23:30.469305+00:00",
-                "last_updated": "2020-03-01T17:37:26.079103+00:00",
-                "state": "on"
-            }
-        },
-        {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "turn on roof living room ceiling light",
-                    "last_triggered": "2020-03-01T17:37:29.568876+00:00"
+                    "id": "11a34e75b7f04829aa590d4b5759439b",
+                    "last_triggered": "2020-03-01T19:36:45.860971+00:00"
                 },
                 "context": {
-                    "id": "909846af2f024b1fa512557bacbd31fb",
-                    "parent_id": "c683f62e9ce043ccbf13b79dcd851e26",
-                    "user_id": null
-                },
-                "entity_id": "automation.turn_on_roof_living_room_ceiling_light_4",
-                "last_changed": "2020-03-01T17:23:30.470800+00:00",
-                "last_updated": "2020-03-01T17:37:29.570106+00:00",
-                "state": "on"
-            }
-        },
-        {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "turn off roof living room ceiling light",
-                    "last_triggered": "2020-03-01T17:37:30.286529+00:00"
-                },
-                "context": {
-                    "id": "966cd48cd0a840ea8729421150267749",
-                    "parent_id": "c076d590064c443d84ea6c160fc4b264",
-                    "user_id": null
-                },
-                "entity_id": "automation.turn_off_roof_living_room_ceiling_light_4",
-                "last_changed": "2020-03-01T17:23:30.472604+00:00",
-                "last_updated": "2020-03-01T17:37:30.287251+00:00",
-                "state": "on"
-            }
-        },
-        {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
-            "state": {
-                "attributes": {
-                    "battery_level": 24,
-                    "friendly_name": "qnoPhone",
-                    "gps_accuracy": 100,
-                    "latitude": 47.27882594181315,
-                    "longitude": 8.45913201570511,
-                    "source_type": "gps"
-                },
-                "context": {
-                    "id": "abfe441fc48845eab93a5da97db74d07",
+                    "id": "2fc37dfda35041b4a93037968168b627",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "device_tracker.qnophone",
-                "last_changed": "2020-03-01T17:23:34.856078+00:00",
-                "last_updated": "2020-03-01T17:23:34.856078+00:00",
+                "entity_id": "automation.turn_on_roof_living_room_ceiling_light_4",
+                "last_changed": "2020-03-06T15:14:11.464438+00:00",
+                "last_updated": "2020-03-06T15:14:11.464438+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Sunrise",
+                    "id": "sunrise",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "a48dbaa831204284a9e124e8b5f01482",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.sunrise",
+                "last_changed": "2020-03-06T15:14:11.471072+00:00",
+                "last_updated": "2020-03-06T15:14:11.471072+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Sunset",
+                    "id": "sunset",
+                    "last_triggered": "2020-03-06T17:19:14.113108+00:00"
+                },
+                "context": {
+                    "id": "38a81ea53c7443aa85a23f31b82dea34",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.sunset",
+                "last_changed": "2020-03-06T15:14:11.473194+00:00",
+                "last_updated": "2020-03-06T17:19:14.114210+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "turn off roof living room light",
+                    "id": "374af73ba7c748029e625cee3ea0b8ff",
+                    "last_triggered": "2020-03-06T06:13:28.804994+00:00"
+                },
+                "context": {
+                    "id": "781d52f6ceb24b7aacd9bc94382310d9",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.turn_off_roof_living_room_light",
+                "last_changed": "2020-03-06T15:14:11.476268+00:00",
+                "last_updated": "2020-03-06T15:14:11.476268+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "turn on roof living room light",
+                    "id": "41e18b4cdfba4464831da3bbfc309d10",
+                    "last_triggered": "2020-03-06T05:54:24.353818+00:00"
+                },
+                "context": {
+                    "id": "37768a46b31f4fd89bb765f4214a6f4a",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.turn_on_roof_living_room_light",
+                "last_changed": "2020-03-06T15:14:11.478718+00:00",
+                "last_updated": "2020-03-06T15:14:11.478718+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "turn on roof living room ceiling light",
+                    "id": "a738b34334874f2bbc405370f5d8e9f5",
+                    "last_triggered": "2020-03-01T18:10:25.287888+00:00"
+                },
+                "context": {
+                    "id": "daa743f214ac45cabe05518fba8911a6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.turn_on_roof_living_room_ceiling_light_3",
+                "last_changed": "2020-03-06T15:14:11.481133+00:00",
+                "last_updated": "2020-03-06T15:14:11.481133+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "entity_picture": "/local/d.jpg",
+                    "friendly_name": "D\u00f3ri",
+                    "id": "dori"
+                },
+                "context": {
+                    "id": "0003316a8fca47be824c213ba17ae41f",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.dori",
+                "last_changed": "2020-03-06T15:14:11.485639+00:00",
+                "last_updated": "2020-03-06T15:14:23.906443+00:00",
+                "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
+            "state": {
+                "attributes": {
+                    "altitude": 504.7098388671875,
+                    "battery_level": 59,
+                    "friendly_name": "Timi\u2019s iPhone",
+                    "gps_accuracy": 65,
+                    "latitude": 47.27960205078125,
+                    "longitude": 8.45865291702353,
+                    "source_type": "gps",
+                    "vertical_accuracy": 10
+                },
+                "context": {
+                    "id": "c9cb19af7c3d441db38a8a028eb2b4aa",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.timis_iphone",
+                "last_changed": "2020-03-06T15:14:15.660382+00:00",
+                "last_updated": "2020-03-06T15:14:15.660382+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2020-03-01T17:38:36.339288+00:00",
+            "last_seen": "2020-03-06T21:59:48.010656+00:00",
             "state": {
                 "attributes": {
-                    "editable": true,
-                    "friendly_name": "Timi Hefelle",
-                    "id": "timi_hefelle"
+                    "altitude": 513.824951171875,
+                    "battery_level": 72,
+                    "friendly_name": "qnoPhone",
+                    "gps_accuracy": 65,
+                    "latitude": 47.278778076171875,
+                    "longitude": 8.459028627230266,
+                    "source_type": "gps",
+                    "vertical_accuracy": 10
                 },
                 "context": {
-                    "id": "94d5806f5f854fff81d3813702b510f9",
+                    "id": "3d3a9c449a064390b59157ba812470fc",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "person.timi_hefelle",
-                "last_changed": "2020-03-01T17:38:35.385708+00:00",
-                "last_updated": "2020-03-01T17:38:35.385708+00:00",
+                "entity_id": "device_tracker.qnophone",
+                "last_changed": "2020-03-06T21:54:01.434648+00:00",
+                "last_updated": "2020-03-06T21:54:01.434648+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T11:18:03.910832+00:00",
+            "state": {
+                "attributes": {
+                    "editable": false,
+                    "friendly_name": "Kuno",
+                    "gps_accuracy": 65,
+                    "id": "kuno",
+                    "latitude": 47.27874755859375,
+                    "longitude": 8.45895187579853,
+                    "source": "device_tracker.qnophone"
+                },
+                "context": {
+                    "id": "a3dd6a581e51447f9c44fa413f47c502",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.kuno_4",
+                "last_changed": "2020-03-06T11:07:23.197639+00:00",
+                "last_updated": "2020-03-06T11:09:58.551440+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T11:18:03.910832+00:00",
+            "state": {
+                "attributes": {
+                    "editable": false,
+                    "friendly_name": "Timi",
+                    "gps_accuracy": 16,
+                    "id": "timi",
+                    "latitude": 47.27897193632108,
+                    "longitude": 8.45920957112767,
+                    "source": "device_tracker.timis_iphone"
+                },
+                "context": {
+                    "id": "43d73169949245edba788fc384ef1407",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.timi_2",
+                "last_changed": "2020-03-06T11:16:26.506243+00:00",
+                "last_updated": "2020-03-06T11:16:26.506243+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T11:10:33.939239+00:00",
+            "state": {
+                "attributes": {
+                    "altitude": 512.6233520507812,
+                    "battery_level": 25,
+                    "friendly_name": "qnoPhone",
+                    "gps_accuracy": 65,
+                    "latitude": 47.27880859375,
+                    "longitude": 8.459129637146646,
+                    "source_type": "gps",
+                    "vertical_accuracy": 10
+                },
+                "context": {
+                    "id": "151c3a1807014631b15d0a365f5539e6",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.qnophone_2",
+                "last_changed": "2020-03-06T10:50:28.232365+00:00",
+                "last_updated": "2020-03-06T10:50:28.232365+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T11:16:26.393192+00:00",
+            "state": {
+                "attributes": {
+                    "altitude": 521.2477780136333,
+                    "battery_level": 93,
+                    "course": 24,
+                    "friendly_name": "Timi\u2019s iPhone",
+                    "gps_accuracy": 16,
+                    "latitude": 47.27897193632108,
+                    "longitude": 8.45920957112767,
+                    "source_type": "gps",
+                    "speed": 0,
+                    "vertical_accuracy": 3
+                },
+                "context": {
+                    "id": "364e7f7254f24d2491f9c2c2b9c78282",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.timis_iphone_2",
+                "last_changed": "2020-03-06T11:15:04.728352+00:00",
+                "last_updated": "2020-03-06T11:15:04.728352+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T10:30:49.639853+00:00",
+            "state": {
+                "attributes": {
+                    "editable": false,
+                    "friendly_name": "Kuno",
+                    "id": "13984b139dd9426ca31369725c9e23e0"
+                },
+                "context": {
+                    "id": "897962791634410997706fcf5b8e3bba",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.kuno_3",
+                "last_changed": "2020-03-06T10:04:29.893138+00:00",
+                "last_updated": "2020-03-06T10:04:29.893138+00:00",
                 "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T10:30:49.639853+00:00",
+            "state": {
+                "attributes": {
+                    "editable": false,
+                    "friendly_name": "Marcella",
+                    "id": "marcella"
+                },
+                "context": {
+                    "id": "672f30fcda7a4831bd23fb66acb9ffa5",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.marcella",
+                "last_changed": "2020-03-06T10:04:30.102525+00:00",
+                "last_updated": "2020-03-06T10:04:30.102525+00:00",
+                "state": "unknown"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T07:10:07.150324+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Sunrise",
+                    "id": "1583255387149",
+                    "last_triggered": "2020-03-06T06:12:06.344822+00:00"
+                },
+                "context": {
+                    "id": "20c7c9e24ce343b5aee361ee758e647e",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.open_cover",
+                "last_changed": "2020-03-06T06:05:41.436897+00:00",
+                "last_updated": "2020-03-06T06:12:06.345319+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-06T07:31:07.348473+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Sunset",
+                    "id": "1583255857310",
+                    "last_triggered": "2020-03-05T18:39:02.247155+00:00"
+                },
+                "context": {
+                    "id": "7e5388bdccf14999add1964d32873277",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.new_automation",
+                "last_changed": "2020-03-06T07:13:23.481020+00:00",
+                "last_updated": "2020-03-06T07:13:23.481020+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-03T10:10:07.492907+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Frontend: change theme",
+                    "last_triggered": "2020-03-03T10:04:57.175241+00:00"
+                },
+                "context": {
+                    "id": "1033e2458e524063ab05551601f6953e",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.frontend_change_theme",
+                "last_changed": "2020-03-03T10:03:47.959246+00:00",
+                "last_updated": "2020-03-03T10:04:57.175823+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-03T10:12:09.823950+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Frontend: turn on light mode",
+                    "last_triggered": "2020-03-03T05:00:00.023051+00:00"
+                },
+                "context": {
+                    "id": "4ecc8bac559d4d7c89bf4be345aff6b9",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.frontend_turn_on_light_mode",
+                "last_changed": "2020-03-03T10:10:10.922862+00:00",
+                "last_updated": "2020-03-03T10:10:10.922862+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-03T10:12:09.870609+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Frontend: turn on dark mode",
+                    "last_triggered": "2020-03-02T19:00:00.032903+00:00"
+                },
+                "context": {
+                    "id": "b0a2a031ee0f49549d371e9a5aaeecaa",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.frontend_turn_on_dark_mode",
+                "last_changed": "2020-03-03T10:10:10.944794+00:00",
+                "last_updated": "2020-03-03T10:10:10.944794+00:00",
+                "state": "on"
             }
         },
         {
@@ -322,6 +666,94 @@
                 "last_changed": "2020-03-01T08:48:31.977716+00:00",
                 "last_updated": "2020-03-01T08:48:31.977716+00:00",
                 "state": "on"
+            }
+        },
+        {
+            "last_seen": "2020-03-01T20:13:27.878861+00:00",
+            "state": {
+                "attributes": {
+                    "editable": false,
+                    "friendly_name": "Kuno",
+                    "gps_accuracy": 100,
+                    "id": "qno",
+                    "latitude": 47.27882594181315,
+                    "longitude": 8.45913201570511,
+                    "source": "device_tracker.qnophone"
+                },
+                "context": {
+                    "id": "b7e08245e59a4992b24bfd539ed722d2",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.kuno",
+                "last_changed": "2020-03-01T20:12:54.302392+00:00",
+                "last_updated": "2020-03-01T20:12:54.302392+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-01T20:13:36.462810+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "Konrad Hefelle",
+                    "gps_accuracy": 100,
+                    "id": "konrad_hefelle",
+                    "latitude": 47.27882594181315,
+                    "longitude": 8.45913201570511,
+                    "source": "device_tracker.qnophone",
+                    "user_id": "42c1f67fd6984d35952738c920d4021a"
+                },
+                "context": {
+                    "id": "8b9834258a6348b28b29fe944f479b7a",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.qno",
+                "last_changed": "2020-03-01T20:12:14.023906+00:00",
+                "last_updated": "2020-03-01T20:12:14.023906+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2020-03-03T18:00:30.753743+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "close cover",
+                    "id": "1583255387148",
+                    "last_triggered": "2020-03-03T17:28:46.953921+00:00"
+                },
+                "context": {
+                    "id": "ddccc72bb8c04436ab17d4c607cae2fd",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.close_cover",
+                "last_changed": "2020-03-03T17:59:18.128397+00:00",
+                "last_updated": "2020-03-03T17:59:18.128397+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2020-03-04T22:54:16.325504+00:00",
+            "state": {
+                "attributes": {
+                    "battery_level": 52,
+                    "friendly_name": "qnoPhone",
+                    "gps_accuracy": 100,
+                    "latitude": 47.278825031965994,
+                    "longitude": 8.459094464778902,
+                    "source_type": "gps"
+                },
+                "context": {
+                    "id": "d1bc5d626cf445e99bc8122116d59635",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.qnophone_3",
+                "last_changed": "2020-03-04T22:51:08.169603+00:00",
+                "last_updated": "2020-03-04T22:51:08.169603+00:00",
+                "state": "home"
             }
         }
     ],

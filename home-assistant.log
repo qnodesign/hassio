@@ -1,95 +1,84 @@
-2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setup of domain logger took 0.0 seconds.
-2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setting up http
-2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setup of domain http took 0.0 seconds.
-2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setting up system_log
-2020-03-01 18:23:10 INFO (MainThread) [homeassistant.setup] Setup of domain system_log took 0.0 seconds.
-2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setting up recorder
-2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setting up webhook
-2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setup of domain webhook took 0.0 seconds.
-2020-03-01 18:23:12 INFO (SyncWorker_19) [homeassistant.loader] Loaded alexa from homeassistant.components.alexa
-2020-03-01 18:23:12 INFO (SyncWorker_3) [homeassistant.loader] Loaded google_assistant from homeassistant.components.google_assistant
-2020-03-01 18:23:12 INFO (SyncWorker_0) [homeassistant.loader] Loaded camera from homeassistant.components.camera
-2020-03-01 18:23:12 INFO (MainThread) [homeassistant.setup] Setup of domain recorder took 0.2 seconds.
-2020-03-01 18:23:12 INFO (SyncWorker_12) [homeassistant.loader] Loaded media_player from homeassistant.components.media_player
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up cloud
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setup of domain cloud took 0.1 seconds.
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up scene
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.components.scene] Setting up scene.homeassistant
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up met
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setup of domain met took 0.0 seconds.
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up updater
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up homekit
-2020-03-01 18:23:24 INFO (MainThread) [homeassistant.setup] Setting up group
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain group took 0.0 seconds.
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up lovelace
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain lovelace took 0.0 seconds.
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up tado
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up zone
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up ssdp
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain ssdp took 0.0 seconds.
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setting up sun
-2020-03-01 18:23:25 INFO (MainThread) [homeassistant.setup] Setup of domain sun took 0.1 seconds.
-2020-03-01 18:23:26 INFO (SyncWorker_4) [homeassistant.loader] Loaded weather from homeassistant.components.weather
-2020-03-01 18:23:27 INFO (MainThread) [homeassistant.setup] Setting up person
-2020-03-01 18:23:27 INFO (MainThread) [homeassistant.setup] Setting up samsungtv
-2020-03-01 18:23:27 INFO (MainThread) [homeassistant.setup] Setup of domain samsungtv took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up websocket_api
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain websocket_api took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up script
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain script took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up config
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up device_automation
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain device_automation took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up history
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain history took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up api
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up system_health
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain system_health took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up deconz
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain deconz took 0.0 seconds.
-2020-03-01 18:23:28 DEBUG (MainThread) [pydeconz.gateway] Sending "get" "None" to "172.30.33.0 "
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain scene took 4.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up weather
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain weather took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain homekit took 3.8 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setting up auth
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.setup] Setup of domain auth took 0.0 seconds.
-2020-03-01 18:23:28 INFO (MainThread) [homeassistant.components.weather] Setting up weather.met
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up search
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain search took 0.0 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain api took 0.4 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain tado took 3.7 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain config took 0.4 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up somfy
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain somfy took 0.0 seconds.
-2020-03-01 18:23:29 INFO (SyncWorker_0) [homeassistant.loader] Loaded sensor from homeassistant.components.sensor
-2020-03-01 18:23:29 INFO (SyncWorker_10) [homeassistant.loader] Loaded climate from homeassistant.components.climate
-2020-03-01 18:23:29 INFO (SyncWorker_12) [homeassistant.loader] Loaded water_heater from homeassistant.components.water_heater
-2020-03-01 18:23:29 INFO (SyncWorker_12) [homeassistant.loader] Loaded switch from homeassistant.components.switch
-2020-03-01 18:23:29 INFO (SyncWorker_17) [homeassistant.loader] Loaded light from homeassistant.components.light
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain zone took 4.1 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up media_player
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain media_player took 0.0 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.components.media_player] Setting up media_player.samsungtv
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up hue
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain hue took 0.0 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up sensor
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain sensor took 0.0 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up climate
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain climate took 0.0 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up water_heater
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain water_heater took 0.0 seconds.
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setting up tradfri
-2020-03-01 18:23:29 INFO (MainThread) [homeassistant.setup] Setup of domain tradfri took 0.0 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up device_tracker
-2020-03-01 18:23:30 ERROR (MainThread) [homeassistant.components.updater] Could not contact Home Assistant Update to check for updates
-2020-03-01 18:23:30 ERROR (MainThread) [homeassistant.components.updater] Error fetching Home Assistant update data: 
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain updater took 5.2 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.tado
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.climate] Setting up climate.tado
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.water_heater] Setting up water_heater.tado
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up automation
-2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.gateway] HTTP request response: {'config': {'UTC': '2020-03-01T17:23:30',
+2020-03-06 16:13:49 WARNING (MainThread) [homeassistant.loader] You are using a custom integration for hacs which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you do experience issues with Home Assistant.
+2020-03-06 16:13:49 INFO (MainThread) [homeassistant.setup] Setup of domain logger took 0.0 seconds.
+2020-03-06 16:13:49 INFO (MainThread) [homeassistant.setup] Setting up http
+2020-03-06 16:13:49 INFO (MainThread) [homeassistant.setup] Setup of domain http took 0.0 seconds.
+2020-03-06 16:13:49 INFO (MainThread) [homeassistant.setup] Setting up system_log
+2020-03-06 16:13:49 INFO (MainThread) [homeassistant.setup] Setup of domain system_log took 0.0 seconds.
+2020-03-06 16:13:51 INFO (MainThread) [homeassistant.setup] Setting up recorder
+2020-03-06 16:13:51 INFO (MainThread) [homeassistant.setup] Setting up webhook
+2020-03-06 16:13:51 INFO (MainThread) [homeassistant.setup] Setup of domain webhook took 0.0 seconds.
+2020-03-06 16:13:51 INFO (SyncWorker_1) [homeassistant.loader] Loaded google_assistant from homeassistant.components.google_assistant
+2020-03-06 16:13:51 INFO (SyncWorker_4) [homeassistant.loader] Loaded alexa from homeassistant.components.alexa
+2020-03-06 16:13:51 INFO (SyncWorker_7) [homeassistant.loader] Loaded media_player from homeassistant.components.media_player
+2020-03-06 16:13:51 INFO (MainThread) [homeassistant.setup] Setup of domain recorder took 0.3 seconds.
+2020-03-06 16:14:03 INFO (MainThread) [homeassistant.setup] Setting up cloud
+2020-03-06 16:14:03 INFO (MainThread) [homeassistant.setup] Setup of domain cloud took 0.1 seconds.
+2020-03-06 16:14:03 INFO (MainThread) [homeassistant.setup] Setting up group
+2020-03-06 16:14:03 INFO (MainThread) [homeassistant.setup] Setting up scene
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.components.scene] Setting up scene.homeassistant
+2020-03-06 16:14:04 INFO (SyncWorker_15) [homeassistant.loader] Loaded darksky from homeassistant.components.darksky
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setting up updater
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setting up homekit
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setting up sun
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setup of domain sun took 0.1 seconds.
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setting up lovelace
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setup of domain lovelace took 0.0 seconds.
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setting up tado
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setting up met
+2020-03-06 16:14:04 INFO (MainThread) [homeassistant.setup] Setup of domain met took 0.0 seconds.
+2020-03-06 16:14:05 INFO (MainThread) [homeassistant.setup] Setting up ssdp
+2020-03-06 16:14:05 INFO (MainThread) [homeassistant.setup] Setup of domain ssdp took 0.0 seconds.
+2020-03-06 16:14:05 INFO (MainThread) [homeassistant.setup] Setting up zone
+2020-03-06 16:14:06 INFO (MainThread) [homeassistant.setup] Setting up person
+2020-03-06 16:14:06 INFO (MainThread) [homeassistant.setup] Setting up weather
+2020-03-06 16:14:06 INFO (MainThread) [homeassistant.setup] Setting up websocket_api
+2020-03-06 16:14:06 INFO (MainThread) [homeassistant.setup] Setup of domain websocket_api took 0.0 seconds.
+2020-03-06 16:14:06 INFO (MainThread) [homeassistant.setup] Setting up config
+2020-03-06 16:14:06 INFO (MainThread) [homeassistant.setup] Setting up samsungtv
+2020-03-06 16:14:06 INFO (MainThread) [homeassistant.setup] Setup of domain samsungtv took 0.0 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.components.weather] Setting up weather.darksky
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setting up deconz
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain deconz took 0.0 seconds.
+2020-03-06 16:14:08 DEBUG (MainThread) [pydeconz.gateway] Sending "get" "None" to "172.30.33.0 "
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setting up history
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain history took 0.0 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setting up device_automation
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain device_automation took 0.0 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setting up system_health
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain system_health took 0.0 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setting up api
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain homekit took 4.1 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain scene took 4.9 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setting up auth
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain auth took 0.0 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setting up search
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain search took 0.0 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain api took 0.5 seconds.
+2020-03-06 16:14:08 INFO (MainThread) [homeassistant.setup] Setup of domain config took 2.2 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setting up somfy
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain somfy took 0.0 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain tado took 4.5 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setting up media_player
+2020-03-06 16:14:09 INFO (SyncWorker_15) [homeassistant.loader] Loaded sensor from homeassistant.components.sensor
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain media_player took 0.0 seconds.
+2020-03-06 16:14:09 INFO (SyncWorker_0) [homeassistant.loader] Loaded climate from homeassistant.components.climate
+2020-03-06 16:14:09 INFO (SyncWorker_8) [homeassistant.loader] Loaded water_heater from homeassistant.components.water_heater
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.components.media_player] Setting up media_player.samsungtv
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setting up hue
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain hue took 0.0 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setting up tradfri
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain tradfri took 0.0 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setting up sensor
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain sensor took 0.0 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setting up climate
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain climate took 0.0 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setting up water_heater
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain water_heater took 0.0 seconds.
+2020-03-06 16:14:09 ERROR (MainThread) [homeassistant.components.updater] Could not contact Home Assistant Update to check for updates
+2020-03-06 16:14:09 ERROR (MainThread) [homeassistant.components.updater] Error fetching Home Assistant update data: 
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.setup] Setup of domain updater took 5.6 seconds.
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.tado
+2020-03-06 16:14:09 DEBUG (MainThread) [pydeconz.gateway] HTTP request response: {'config': {'UTC': '2020-03-06T15:14:09',
             'apiversion': '1.16.0',
             'backup': {'errorcode': 0, 'status': 'idle'},
             'bridgeid': '00212EFFFF0519AC',
@@ -102,7 +91,7 @@
             'internetservices': {'remoteaccess': 'disconnected'},
             'ipaddress': '172.30.33.0',
             'linkbutton': False,
-            'localtime': '2020-03-01T18:23:30',
+            'localtime': '2020-03-06T16:14:09',
             'mac': '02:42:ac:1e:21:00',
             'modelid': 'deCONZ',
             'name': 'qnoConBee',
@@ -143,10 +132,10 @@
             'websocketnotifyall': True,
             'websocketport': 8081,
             'whitelist': {'0D110F80BD': {'create date': '2020-02-29T22:57:27',
-                                         'last use date': '2020-03-01T17:23:30',
+                                         'last use date': '2020-03-06T15:14:09',
                                          'name': 'Home Assistant'},
                           '54451652B9': {'create date': '2020-03-01T17:20:37',
-                                         'last use date': '2020-03-01T17:21:05',
+                                         'last use date': '2020-03-01T17:39:09',
                                          'name': 'Phoscon#B1462x1248'},
                           '8E701E0DB2': {'create date': '2020-02-29T23:25:11',
                                          'last use date': '2020-03-01T09:44:28',
@@ -156,7 +145,7 @@
                                          'name': 'Phoscon#B1462x1248'}},
             'zigbeechannel': 25},
  'groups': {},
- 'lights': {'1': {'etag': 'f4c4a3f6cc1ed195c68ff1ef944987e5',
+ 'lights': {'1': {'etag': '792e8a435e6c4c2e5f03cddae8d4af0e',
                   'hascolor': False,
                   'manufacturername': 'dresden elektronik',
                   'modelid': 'ConBee II',
@@ -173,31 +162,32 @@
                               'on': True,
                               'sunriseoffset': 30,
                               'sunsetoffset': -30},
-                   'etag': 'e15c95dcaaf721bf0645ae5d8127ca86',
+                   'etag': '6db922f9a9359b38e560b74ec5d88020',
                    'manufacturername': 'Philips',
                    'modelid': 'PHDL00',
                    'name': 'Daylight',
-                   'state': {'dark': True,
-                             'daylight': False,
-                             'lastupdated': '2020-03-01T17:13:12',
-                             'status': 200,
-                             'sunrise': '2020-03-01T06:07:28',
-                             'sunset': '2020-03-01T17:12:26'},
+                   'state': {'dark': False,
+                             'daylight': True,
+                             'lastupdated': '2020-03-06T11:38:50',
+                             'status': 170,
+                             'sunrise': '2020-03-06T05:57:53',
+                             'sunset': '2020-03-06T17:19:46'},
                    'swversion': '1.0',
                    'type': 'Daylight',
                    'uniqueid': '00:21:2e:ff:ff:05:19:ac-01'},
              '2': {'config': {'on': True},
                    'ep': 242,
-                   'etag': 'ea52671d06cf5e990db2d88aa1174dd2',
+                   'etag': '6db922f9a9359b38e560b74ec5d88020',
                    'manufacturername': 'PhilipsFoH',
                    'modelid': 'FOHSWITCH',
                    'name': 'FoH switch',
-                   'state': {'buttonevent': 3002,
-                             'lastupdated': '2020-03-01T17:22:00'},
+                   'state': {'buttonevent': 1002,
+                             'lastupdated': '2020-03-01T17:20:34'},
                    'type': 'ZGPSwitch',
                    'uniqueid': '00:00:00:00:01:70:f1:dd-f2'}}}
-2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.deconzdevice] Unknown 1 created as 
-{'etag': 'f4c4a3f6cc1ed195c68ff1ef944987e5',
+2020-03-06 16:14:09 INFO (SyncWorker_19) [homeassistant.loader] Loaded binary_sensor from homeassistant.components.binary_sensor
+2020-03-06 16:14:09 DEBUG (MainThread) [pydeconz.deconzdevice] Unknown 1 created as 
+{'etag': '792e8a435e6c4c2e5f03cddae8d4af0e',
  'hascolor': False,
  'manufacturername': 'dresden elektronik',
  'modelid': 'ConBee II',
@@ -206,312 +196,1722 @@
  'swversion': '0x264a0700',
  'type': 'Unknown',
  'uniqueid': '00:21:2e:ff:ff:05:19:ac-01'}
-2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.deconzdevice] Daylight created as 
+2020-03-06 16:14:09 DEBUG (MainThread) [pydeconz.deconzdevice] Daylight created as 
 {'config': {'configured': True,
             'on': True,
             'sunriseoffset': 30,
             'sunsetoffset': -30},
- 'etag': 'e15c95dcaaf721bf0645ae5d8127ca86',
+ 'etag': '6db922f9a9359b38e560b74ec5d88020',
  'manufacturername': 'Philips',
  'modelid': 'PHDL00',
  'name': 'Daylight',
- 'state': {'dark': True,
-           'daylight': False,
-           'lastupdated': '2020-03-01T17:13:12',
-           'status': 200,
-           'sunrise': '2020-03-01T06:07:28',
-           'sunset': '2020-03-01T17:12:26'},
+ 'state': {'dark': False,
+           'daylight': True,
+           'lastupdated': '2020-03-06T11:38:50',
+           'status': 170,
+           'sunrise': '2020-03-06T05:57:53',
+           'sunset': '2020-03-06T17:19:46'},
  'swversion': '1.0',
  'type': 'Daylight',
  'uniqueid': '00:21:2e:ff:ff:05:19:ac-01'}
-2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.deconzdevice] FoH switch created as 
+2020-03-06 16:14:09 DEBUG (MainThread) [pydeconz.deconzdevice] FoH switch created as 
 {'config': {'on': True},
  'ep': 242,
- 'etag': 'ea52671d06cf5e990db2d88aa1174dd2',
+ 'etag': '6db922f9a9359b38e560b74ec5d88020',
  'manufacturername': 'PhilipsFoH',
  'modelid': 'FOHSWITCH',
  'name': 'FoH switch',
- 'state': {'buttonevent': 3002, 'lastupdated': '2020-03-01T17:22:00'},
+ 'state': {'buttonevent': 1002, 'lastupdated': '2020-03-01T17:20:34'},
  'type': 'ZGPSwitch',
  'uniqueid': '00:00:00:00:01:70:f1:dd-f2'}
-2020-03-01 18:23:30 DEBUG (MainThread) [pydeconz.websocket] Websocket starting
-2020-03-01 18:23:30 INFO (SyncWorker_0) [homeassistant.loader] Loaded binary_sensor from homeassistant.components.binary_sensor
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.climate] Setting up climate.deconz
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.scene] Setting up scene.deconz
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.deconz
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up zeroconf
-2020-03-01 18:23:30 DEBUG (MainThread) [homeassistant.components.deconz] deCONZ event created: foh_switch
-2020-03-01 18:23:30 INFO (SyncWorker_15) [homeassistant.loader] Loaded cover from homeassistant.components.cover
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up binary_sensor
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain binary_sensor took 0.0 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.device_tracker] Setting up device_tracker.legacy
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.deconz
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up light
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up switch
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain switch took 0.0 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain person took 3.4 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain automation took 0.5 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.updater
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.switch] Setting up switch.deconz
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain light took 0.2 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up cover
-2020-03-01 18:23:30 INFO (SyncWorker_14) [homeassistant.loader] Loaded homekit_controller from homeassistant.components.homekit_controller
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain cover took 0.0 seconds.
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.light] Setting up light.deconz
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setting up onboarding
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.components.cover] Setting up cover.deconz
-2020-03-01 18:23:30 INFO (MainThread) [homeassistant.setup] Setup of domain zeroconf took 0.6 seconds.
-2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.light] Setting up light.hue
-2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.hue
-2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.hue
-2020-03-01 18:23:31 DEBUG (MainThread) [pydeconz.websocket] Websocket running
-2020-03-01 18:23:31 INFO (MainThread) [homeassistant.components.light] Not adding entity ?? because it's disabled
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.setup] Setup of domain onboarding took 1.1 seconds.
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.setup] Setting up mobile_app
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.cover] Setting up cover.tradfri
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.light] Setting up light.tradfri
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.tradfri
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.switch] Setting up switch.tradfri
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.setup] Setup of domain mobile_app took 0.1 seconds.
-2020-03-01 18:23:32 INFO (MainThread) [homeassistant.components.light] Not adding entity Hue white lamp 1 because it's disabled
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.mobile_app
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.mobile_app
-2020-03-01 18:23:33 INFO (SyncWorker_5) [homeassistant.components.tado.device_tracker] Scanner initialized
-2020-03-01 18:23:33 INFO (SyncWorker_11) [homeassistant.loader] Loaded notify from homeassistant.components.notify
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up frontend
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain frontend took 0.0 seconds.
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up notify
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain notify took 0.0 seconds.
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up panel_custom
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain panel_custom took 0.0 seconds.
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up map
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain map took 0.0 seconds.
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up logbook
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain logbook took 0.0 seconds.
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setup of domain device_tracker took 3.5 seconds.
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.device_tracker] Setting up device_tracker.mobile_app
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.components.notify] Setting up notify.mobile_app
-2020-03-01 18:23:33 INFO (MainThread) [homeassistant.setup] Setting up hassio
-2020-03-01 18:23:34 INFO (MainThread) [homeassistant.setup] Setting up default_config
-2020-03-01 18:23:34 INFO (SyncWorker_14) [homeassistant.loader] Loaded stream from homeassistant.components.stream
-2020-03-01 18:23:34 INFO (MainThread) [homeassistant.components.cover] Setting up cover.somfy
-2020-03-01 18:23:34 INFO (MainThread) [homeassistant.components.switch] Setting up switch.somfy
-2020-03-01 18:23:34 INFO (MainThread) [homeassistant.setup] Setting up stream
-2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain stream took 0.0 seconds.
-2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain default_config took 0.3 seconds.
-2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain hassio took 1.4 seconds.
-2020-03-01 18:23:35 INFO (SyncWorker_7) [homeassistant.loader] Loaded google_translate from homeassistant.components.google_translate
-2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setting up tts
-2020-03-01 18:23:35 INFO (MainThread) [homeassistant.setup] Setup of domain tts took 0.1 seconds.
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.bootstrap] Home Assistant initialized in 26.08s
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.core] Starting Home Assistant
-2020-03-01 18:23:36 INFO (SyncWorker_8) [homeassistant.components.zeroconf] Starting Zeroconf broadcast
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger Set theme at startup
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room light
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room light
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.core] Timer:starting
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.automation] Executing Set theme at startup
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.helpers.script] Script Set theme at startup: Running script
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.helpers.script] Script Set theme at startup: Executing step call service
-2020-03-01 18:23:36 INFO (MainThread) [homeassistant.components.frontend] Theme ios-dark-mode set as default
-2020-03-01 18:23:36 DEBUG (MainThread) [homeassistant.components.deconz] deCONZ HASSIO discovery {'addon': 'deCONZ',
+2020-03-06 16:14:09 DEBUG (MainThread) [pydeconz.websocket] Websocket starting
+2020-03-06 16:14:09 INFO (MainThread) [homeassistant.components.climate] Setting up climate.tado
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.water_heater] Setting up water_heater.tado
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.climate] Setting up climate.deconz
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.scene] Setting up scene.deconz
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.deconz
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setting up zeroconf
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setting up binary_sensor
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setup of domain binary_sensor took 0.0 seconds.
+2020-03-06 16:14:10 DEBUG (MainThread) [homeassistant.components.deconz] deCONZ event created: foh_switch
+2020-03-06 16:14:10 INFO (SyncWorker_14) [homeassistant.loader] Loaded switch from homeassistant.components.switch
+2020-03-06 16:14:10 INFO (SyncWorker_5) [homeassistant.loader] Loaded light from homeassistant.components.light
+2020-03-06 16:14:10 INFO (SyncWorker_17) [homeassistant.loader] Loaded cover from homeassistant.components.cover
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.deconz
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setup of domain zone took 5.2 seconds.
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.updater
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setup of domain weather took 3.7 seconds.
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.weather] Setting up weather.met
+2020-03-06 16:14:10 INFO (SyncWorker_6) [homeassistant.loader] Loaded homekit_controller from homeassistant.components.homekit_controller
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setup of domain zeroconf took 0.4 seconds.
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setup of domain group took 6.7 seconds.
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.hue
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.hue
+2020-03-06 16:14:10 DEBUG (MainThread) [pydeconz.websocket] Websocket running
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setting up device_tracker
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setting up script
+2020-03-06 16:14:10 INFO (MainThread) [homeassistant.setup] Setup of domain script took 0.0 seconds.
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setting up switch
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setup of domain switch took 0.0 seconds.
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setting up light
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setting up cover
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setup of domain cover took 0.0 seconds.
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.switch] Setting up switch.deconz
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.cover] Setting up cover.deconz
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setup of domain light took 0.3 seconds.
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setting up automation
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.light] Setting up light.deconz
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.light] Setting up light.hue
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.cover] Setting up cover.tradfri
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.light] Setting up light.tradfri
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.tradfri
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.switch] Setting up switch.tradfri
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.device_tracker] Setting up device_tracker.legacy
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.components.light] Not adding entity ?? because it's disabled
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setup of domain automation took 0.5 seconds.
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setup of domain person took 5.4 seconds.
+2020-03-06 16:14:11 INFO (MainThread) [homeassistant.setup] Setting up onboarding
+2020-03-06 16:14:12 INFO (MainThread) [homeassistant.setup] Setup of domain onboarding took 0.5 seconds.
+2020-03-06 16:14:12 INFO (MainThread) [homeassistant.components.light] Not adding entity Hue white lamp 1 because it's disabled
+2020-03-06 16:14:12 INFO (MainThread) [homeassistant.setup] Setting up mobile_app
+2020-03-06 16:14:13 INFO (SyncWorker_1) [homeassistant.components.tado.device_tracker] Scanner initialized
+2020-03-06 16:14:13 INFO (MainThread) [homeassistant.setup] Setup of domain mobile_app took 0.8 seconds.
+2020-03-06 16:14:13 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.mobile_app
+2020-03-06 16:14:13 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.mobile_app
+2020-03-06 16:14:13 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.mobile_app
+2020-03-06 16:14:13 INFO (MainThread) [homeassistant.components.binary_sensor] Setting up binary_sensor.mobile_app
+2020-03-06 16:14:13 INFO (SyncWorker_10) [homeassistant.loader] Loaded notify from homeassistant.components.notify
+2020-03-06 16:14:13 INFO (MainThread) [homeassistant.setup] Setting up frontend
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setup of domain frontend took 0.0 seconds.
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setup of domain device_tracker took 3.1 seconds.
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setting up notify
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setup of domain notify took 0.0 seconds.
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.components.device_tracker] Setting up device_tracker.mobile_app
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.components.device_tracker] Setting up device_tracker.mobile_app
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setting up map
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setup of domain map took 0.0 seconds.
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setting up panel_custom
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setup of domain panel_custom took 0.0 seconds.
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setting up logbook
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setup of domain logbook took 0.0 seconds.
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.components.notify] Setting up notify.mobile_app
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.setup] Setting up hassio
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.components.cover] Setting up cover.somfy
+2020-03-06 16:14:14 INFO (MainThread) [homeassistant.components.switch] Setting up switch.somfy
+2020-03-06 16:14:15 INFO (MainThread) [homeassistant.setup] Setting up default_config
+2020-03-06 16:14:15 INFO (SyncWorker_9) [homeassistant.loader] Loaded stream from homeassistant.components.stream
+2020-03-06 16:14:15 INFO (MainThread) [homeassistant.setup] Setting up stream
+2020-03-06 16:14:15 INFO (MainThread) [homeassistant.setup] Setup of domain stream took 0.0 seconds.
+2020-03-06 16:14:15 INFO (MainThread) [homeassistant.setup] Setup of domain default_config took 0.2 seconds.
+2020-03-06 16:14:16 INFO (MainThread) [homeassistant.setup] Setting up hacs
+2020-03-06 16:14:16 INFO (MainThread) [hacs] 
+-------------------------------------------------------------------
+HACS (Home Assistant Community Store)
+
+Version: 0.22.2
+This is a custom integration
+If you have any issues with this you need to open an issue here:
+https://github.com/hacs/integration/issues
+-------------------------------------------------------------------
+
+2020-03-06 16:14:16 INFO (MainThread) [homeassistant.setup] Setup of domain hassio took 1.9 seconds.
+2020-03-06 16:14:18 INFO (MainThread) [hacs.repository.integration.hacs.integration] Registration complete
+2020-03-06 16:14:19 INFO (MainThread) [hacs.data] Restore started
+2020-03-06 16:14:21 INFO (MainThread) [hacs.data] Restore done
+2020-03-06 16:14:21 INFO (MainThread) [homeassistant.setup] Setup of domain hacs took 4.8 seconds.
+2020-03-06 16:14:21 INFO (MainThread) [hacs] 
+-------------------------------------------------------------------
+HACS (Home Assistant Community Store)
+
+Version: 0.22.2
+This is a custom integration
+If you have any issues with this you need to open an issue here:
+https://github.com/hacs/integration/issues
+-------------------------------------------------------------------
+
+2020-03-06 16:14:21 WARNING (MainThread) [homeassistant.components.frontend] Overwriting integration hacs
+2020-03-06 16:14:21 INFO (MainThread) [hacs.data] Restore started
+2020-03-06 16:14:23 INFO (MainThread) [hacs.data] Restore done
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.hacs
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.sensor] Setting up sensor.hacs
+2020-03-06 16:14:23 ERROR (MainThread) [homeassistant.core] Error doing job: Task exception was never retrieved
+Traceback (most recent call last):
+  File "/usr/src/homeassistant/homeassistant/helpers/entity_platform.py", line 425, in _async_add_entity
+    raise HomeAssistantError(msg)
+homeassistant.exceptions.HomeAssistantError: Entity id already exists: sensor.hacs. Platform hacs does not generate unique IDs
+2020-03-06 16:14:23 INFO (SyncWorker_15) [homeassistant.loader] Loaded generic from homeassistant.components.generic
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.setup] Setting up camera
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.camera] Setting up camera.generic
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.setup] Setup of domain camera took 0.0 seconds.
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.stream] Started stream: rtsp://hassio:kuncsika@192.168.1.18:554/h264Preview_01_main
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.bootstrap] Home Assistant initialized in 34.88s
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.core] Starting Home Assistant
+2020-03-06 16:14:23 INFO (SyncWorker_13) [homeassistant.components.zeroconf] Starting Zeroconf broadcast
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger Set theme at startup
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger Sunrise
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger Sunset
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room light
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room light
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.core] Timer:starting
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.automation] Executing Set theme at startup
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.helpers.script] Script Set theme at startup: Running script
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.helpers.script] Script Set theme at startup: Executing step call service
+2020-03-06 16:14:23 INFO (MainThread) [homeassistant.components.frontend] Theme ios-dark-mode set as default
+2020-03-06 16:14:24 DEBUG (MainThread) [homeassistant.components.deconz] deCONZ HASSIO discovery {'addon': 'deCONZ',
  'api_key': '0D110F80BD',
  'host': '172.30.33.0',
  'port': 40850,
  'serial': '00212EFFFF0519AC'}
-2020-03-01 18:23:36 INFO (SyncWorker_3) [pyhap.accessory_driver] Loading Accessory state from `/config/.homekit.state`
-2020-03-01 18:23:36 INFO (SyncWorker_12) [pyhap.accessory_driver] Starting the event loop
-2020-03-01 18:23:36 INFO (SyncWorker_0) [pyhap.accessory_driver] Starting accessory Home Assistant Bridge on address 192.168.1.158, port 51827.
-2020-03-01 18:23:36 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.83', 49193).
-2020-03-01 18:23:37 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:23:37 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:23:37 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "GET /accessories HTTP/1.1" 200 -
-2020-03-01 18:23:37 INFO (SyncWorker_18) [homeassistant.loader] Loaded ecobee from homeassistant.components.ecobee
-2020-03-01 18:23:38 INFO (SyncWorker_13) [homeassistant.loader] Loaded zwave from homeassistant.components.zwave
-2020-03-01 18:23:40 INFO (SyncWorker_17) [homeassistant.loader] Loaded simplisafe from homeassistant.components.simplisafe
-2020-03-01 18:23:40 INFO (SyncWorker_18) [homeassistant.loader] Loaded ipma from homeassistant.components.ipma
-2020-03-01 18:23:40 INFO (SyncWorker_14) [homeassistant.loader] Loaded withings from homeassistant.components.withings
-2020-03-01 18:23:40 INFO (SyncWorker_13) [homeassistant.loader] Loaded twilio from homeassistant.components.twilio
-2020-03-01 18:23:40 INFO (SyncWorker_4) [homeassistant.loader] Loaded brother from homeassistant.components.brother
-2020-03-01 18:23:40 INFO (SyncWorker_11) [homeassistant.loader] Loaded meteo_france from homeassistant.components.meteo_france
-2020-03-01 18:23:41 INFO (SyncWorker_7) [homeassistant.loader] Loaded plex from homeassistant.components.plex
-2020-03-01 18:23:41 INFO (SyncWorker_2) [homeassistant.loader] Loaded geofency from homeassistant.components.geofency
-2020-03-01 18:23:41 INFO (SyncWorker_16) [homeassistant.loader] Loaded adguard from homeassistant.components.adguard
-2020-03-01 18:23:41 INFO (SyncWorker_17) [homeassistant.loader] Loaded huawei_lte from homeassistant.components.huawei_lte
-2020-03-01 18:23:41 INFO (SyncWorker_18) [homeassistant.loader] Loaded esphome from homeassistant.components.esphome
-2020-03-01 18:23:41 INFO (SyncWorker_14) [homeassistant.loader] Loaded tellduslive from homeassistant.components.tellduslive
-2020-03-01 18:23:41 INFO (SyncWorker_13) [homeassistant.loader] Loaded openuv from homeassistant.components.openuv
-2020-03-01 18:23:42 INFO (SyncWorker_11) [homeassistant.loader] Loaded solaredge from homeassistant.components.solaredge
-2020-03-01 18:23:42 INFO (SyncWorker_7) [homeassistant.loader] Loaded minecraft_server from homeassistant.components.minecraft_server
-2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded cast from homeassistant.components.cast
-2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded tplink from homeassistant.components.tplink
-2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded logi_circle from homeassistant.components.logi_circle
-2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded twentemilieu from homeassistant.components.twentemilieu
-2020-03-01 18:23:42 INFO (SyncWorker_14) [homeassistant.loader] Loaded ambient_station from homeassistant.components.ambient_station
-2020-03-01 18:23:42 INFO (SyncWorker_13) [homeassistant.loader] Loaded ambiclimate from homeassistant.components.ambiclimate
-2020-03-01 18:23:42 INFO (SyncWorker_4) [homeassistant.loader] Loaded hangouts from homeassistant.components.hangouts
-2020-03-01 18:23:42 INFO (SyncWorker_9) [homeassistant.loader] Loaded axis from homeassistant.components.axis
-2020-03-01 18:23:42 INFO (SyncWorker_1) [homeassistant.loader] Loaded locative from homeassistant.components.locative
-2020-03-01 18:23:42 INFO (SyncWorker_8) [homeassistant.loader] Loaded spotify from homeassistant.components.spotify
-2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded upnp from homeassistant.components.upnp
-2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded netatmo from homeassistant.components.netatmo
-2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded mikrotik from homeassistant.components.mikrotik
-2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded coolmaster from homeassistant.components.coolmaster
-2020-03-01 18:23:42 INFO (SyncWorker_14) [homeassistant.loader] Loaded iqvia from homeassistant.components.iqvia
-2020-03-01 18:23:42 INFO (SyncWorker_13) [homeassistant.loader] Loaded velbus from homeassistant.components.velbus
-2020-03-01 18:23:42 INFO (SyncWorker_4) [homeassistant.loader] Loaded emulated_roku from homeassistant.components.emulated_roku
-2020-03-01 18:23:42 INFO (SyncWorker_9) [homeassistant.loader] Loaded dialogflow from homeassistant.components.dialogflow
-2020-03-01 18:23:42 INFO (SyncWorker_1) [homeassistant.loader] Loaded opentherm_gw from homeassistant.components.opentherm_gw
-2020-03-01 18:23:42 INFO (SyncWorker_8) [homeassistant.loader] Loaded smhi from homeassistant.components.smhi
-2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded daikin from homeassistant.components.daikin
-2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded mqtt from homeassistant.components.mqtt
-2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded gdacs from homeassistant.components.gdacs
-2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded tesla from homeassistant.components.tesla
-2020-03-01 18:23:42 INFO (SyncWorker_14) [homeassistant.loader] Loaded wwlln from homeassistant.components.wwlln
-2020-03-01 18:23:42 INFO (SyncWorker_13) [homeassistant.loader] Loaded airly from homeassistant.components.airly
-2020-03-01 18:23:42 INFO (SyncWorker_4) [homeassistant.loader] Loaded luftdaten from homeassistant.components.luftdaten
-2020-03-01 18:23:42 INFO (SyncWorker_9) [homeassistant.loader] Loaded vilfo from homeassistant.components.vilfo
-2020-03-01 18:23:42 INFO (SyncWorker_1) [homeassistant.loader] Loaded toon from homeassistant.components.toon
-2020-03-01 18:23:42 INFO (SyncWorker_8) [homeassistant.loader] Loaded melcloud from homeassistant.components.melcloud
-2020-03-01 18:23:42 INFO (SyncWorker_2) [homeassistant.loader] Loaded sentry from homeassistant.components.sentry
-2020-03-01 18:23:42 INFO (SyncWorker_16) [homeassistant.loader] Loaded soma from homeassistant.components.soma
-2020-03-01 18:23:42 INFO (SyncWorker_17) [homeassistant.loader] Loaded konnected from homeassistant.components.konnected
-2020-03-01 18:23:42 INFO (SyncWorker_18) [homeassistant.loader] Loaded life360 from homeassistant.components.life360
-2020-03-01 18:23:43 INFO (SyncWorker_14) [homeassistant.loader] Loaded gpslogger from homeassistant.components.gpslogger
-2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded neato from homeassistant.components.neato
-2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded vesync from homeassistant.components.vesync
-2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded izone from homeassistant.components.izone
-2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded starline from homeassistant.components.starline
-2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded almond from homeassistant.components.almond
-2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded nest from homeassistant.components.nest
-2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded homematicip_cloud from homeassistant.components.homematicip_cloud
-2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded notion from homeassistant.components.notion
-2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded hisense_aehw4a1 from homeassistant.components.hisense_aehw4a1
-2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded owntracks from homeassistant.components.owntracks
-2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded geonetnz_quakes from homeassistant.components.geonetnz_quakes
-2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded traccar from homeassistant.components.traccar
-2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded wemo from homeassistant.components.wemo
-2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded elgato from homeassistant.components.elgato
-2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded cert_expiry from homeassistant.components.cert_expiry
-2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded zha from homeassistant.components.zha
-2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded point from homeassistant.components.point
-2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded heos from homeassistant.components.heos
-2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded glances from homeassistant.components.glances
-2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded garmin_connect from homeassistant.components.garmin_connect
-2020-03-01 18:23:43 WARNING (MainThread) [homeassistant.loader] You are using a custom integration for hacs which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you do experience issues with Home Assistant.
-2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded abode from homeassistant.components.abode
-2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded dynalite from homeassistant.components.dynalite
-2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded lifx from homeassistant.components.lifx
-2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded icloud from homeassistant.components.icloud
-2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded local_ip from homeassistant.components.local_ip
-2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded iaqualink from homeassistant.components.iaqualink
-2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded mailgun from homeassistant.components.mailgun
-2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded vizio from homeassistant.components.vizio
-2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded sonos from homeassistant.components.sonos
-2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded wled from homeassistant.components.wled
-2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded ps4 from homeassistant.components.ps4
-2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded ifttt from homeassistant.components.ifttt
-2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded geonetnz_volcano from homeassistant.components.geonetnz_volcano
-2020-03-01 18:23:43 INFO (SyncWorker_8) [homeassistant.loader] Loaded ios from homeassistant.components.ios
-2020-03-01 18:23:43 INFO (SyncWorker_2) [homeassistant.loader] Loaded unifi from homeassistant.components.unifi
-2020-03-01 18:23:43 INFO (SyncWorker_16) [homeassistant.loader] Loaded solarlog from homeassistant.components.solarlog
-2020-03-01 18:23:43 INFO (SyncWorker_17) [homeassistant.loader] Loaded plaato from homeassistant.components.plaato
-2020-03-01 18:23:43 INFO (SyncWorker_18) [homeassistant.loader] Loaded gios from homeassistant.components.gios
-2020-03-01 18:23:43 INFO (SyncWorker_7) [homeassistant.loader] Loaded linky from homeassistant.components.linky
-2020-03-01 18:23:43 INFO (SyncWorker_3) [homeassistant.loader] Loaded smartthings from homeassistant.components.smartthings
-2020-03-01 18:23:43 INFO (SyncWorker_4) [homeassistant.loader] Loaded rainmachine from homeassistant.components.rainmachine
-2020-03-01 18:23:43 INFO (SyncWorker_9) [homeassistant.loader] Loaded transmission from homeassistant.components.transmission
-2020-03-01 18:23:43 INFO (SyncWorker_1) [homeassistant.loader] Loaded ring from homeassistant.components.ring
-2020-03-01 18:23:43 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 63202).
-2020-03-01 18:23:43 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:23:43 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:23:44 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
-2020-03-01 18:27:05 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 63203).
-2020-03-01 18:27:05 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:27:05 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:27:05 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
-2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1000,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1002,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:09 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room light
-2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Running script
-2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Executing step device automation
-2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3000,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:09 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3002,"lastupdated":"2020-03-01T17:29:09"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:09 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room ceiling light
-2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Running script
-2020-03-01 18:29:09 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Executing step device automation
-2020-03-01 18:29:12 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2000,"lastupdated":"2020-03-01T17:29:12"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:12 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2002,"lastupdated":"2020-03-01T17:29:12"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:12 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room light
-2020-03-01 18:29:12 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Running script
-2020-03-01 18:29:12 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Executing step device automation
-2020-03-01 18:29:13 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1000,"lastupdated":"2020-03-01T17:29:13"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:13 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":1002,"lastupdated":"2020-03-01T17:29:13"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:13 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room light
-2020-03-01 18:29:13 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Running script
-2020-03-01 18:29:13 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room light: Executing step device automation
-2020-03-01 18:29:17 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:29:17"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:17 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:29:17"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:29:17 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
-2020-03-01 18:29:17 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
-2020-03-01 18:29:17 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
-2020-03-01 18:31:34 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
-2020-03-01 18:32:01 WARNING (MainThread) [homeassistant.components.device_tracker] The 'hide_if_away' option (with value 'False') is deprecated, please remove it from your configuration. This option will become invalid in version 0.107.0
-2020-03-01 18:32:48 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.etkezo_ajto is taking over 10 seconds
-2020-03-01 18:33:20 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.tetoter_utca is taking over 10 seconds
-2020-03-01 18:35:18 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
-2020-03-01 18:35:50 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
-2020-03-01 18:36:55 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 63204).
-2020-03-01 18:36:55 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:36:55 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
-2020-03-01 18:36:55 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
-2020-03-01 18:36:55 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
-2020-03-01 18:37:03 WARNING (MainThread) [homeassistant.components.device_tracker] The 'hide_if_away' option (with value 'False') is deprecated, please remove it from your configuration. This option will become invalid in version 0.107.0
-2020-03-01 18:37:24 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:37:24"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:24 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:37:24"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:24 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
-2020-03-01 18:37:24 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
-2020-03-01 18:37:24 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
-2020-03-01 18:37:25 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2000,"lastupdated":"2020-03-01T17:37:24"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:25 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":2002,"lastupdated":"2020-03-01T17:37:25"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:25 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room light
-2020-03-01 18:37:25 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Running script
-2020-03-01 18:37:25 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room light: Executing step device automation
-2020-03-01 18:37:27 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:37:27"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:27 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:37:27"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:27 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
-2020-03-01 18:37:27 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
-2020-03-01 18:37:27 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
-2020-03-01 18:37:27 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3000,"lastupdated":"2020-03-01T17:37:27"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:28 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":3002,"lastupdated":"2020-03-01T17:37:28"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:28 INFO (MainThread) [homeassistant.components.automation] Executing turn on roof living room ceiling light
-2020-03-01 18:37:28 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Running script
-2020-03-01 18:37:28 INFO (MainThread) [homeassistant.helpers.script] Script turn on roof living room ceiling light: Executing step device automation
-2020-03-01 18:37:29 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4000,"lastupdated":"2020-03-01T17:37:29"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:29 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"2","r":"sensors","state":{"buttonevent":4002,"lastupdated":"2020-03-01T17:37:29"},"t":"event","uniqueid":"00:00:00:00:01:70:f1:dd-f2"}
-2020-03-01 18:37:29 INFO (MainThread) [homeassistant.components.automation] Executing turn off roof living room ceiling light
-2020-03-01 18:37:30 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Running script
-2020-03-01 18:37:30 INFO (MainThread) [homeassistant.helpers.script] Script turn off roof living room ceiling light: Executing step device automation
-2020-03-01 18:37:59 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
-2020-03-01 18:38:30 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
-2020-03-01 18:38:35 INFO (MainThread) [homeassistant.helpers.entity_registry] Registered new person.person entity: person.timi_hefelle
-2020-03-01 18:39:01 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
-2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
-2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
-2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room light
-2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room light
-2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn off roof living room ceiling light
-2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger turn on roof living room ceiling light
-2020-03-01 18:39:08 INFO (MainThread) [homeassistant.components.automation] Initialized trigger Set theme at startup
-2020-03-01 18:40:14 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.tetoter_utca is taking over 10 seconds
-2020-03-01 18:41:08 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/update request None
-2020-03-01 18:41:12 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
-2020-03-01 18:41:15 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
-2020-03-01 18:41:16 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
-2020-03-01 18:41:19 ERROR (MainThread) [homeassistant.components.hassio.http] Client error on api supervisor/logs request Cannot connect to host 172.30.32.2:80 ssl:None [Connect call failed ('172.30.32.2', 80)]
-2020-03-01 18:42:22 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.zsofi_ablak is taking over 10 seconds
-2020-03-01 18:43:13 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":true,"daylight":false,"lastupdated":"2020-03-01T17:43:12","status":210,"sunrise":"2020-03-01T06:07:28","sunset":"2020-03-01T17:12:26"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 16:14:24 INFO (SyncWorker_5) [pyhap.accessory_driver] Loading Accessory state from `/config/.homekit.state`
+2020-03-06 16:14:24 INFO (SyncWorker_4) [pyhap.accessory_driver] Starting the event loop
+2020-03-06 16:14:24 INFO (SyncWorker_0) [pyhap.accessory_driver] Starting accessory Home Assistant Bridge on address 192.168.1.158, port 51827.
+2020-03-06 16:14:24 INFO (MainThread) [hacs] Loading known repositories
+2020-03-06 16:14:25 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.83', 49262).
+2020-03-06 16:14:25 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 58969).
+2020-03-06 16:14:25 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 16:14:25 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 16:14:25 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 16:14:25 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 16:14:25 INFO (Thread-4) [pyhap.hap_server] 192.168.1.83 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 16:14:25 INFO (Thread-5) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 16:14:29 INFO (SyncWorker_5) [homeassistant.loader] Loaded velbus from homeassistant.components.velbus
+2020-03-06 16:14:32 INFO (SyncWorker_7) [homeassistant.loader] Loaded lifx from homeassistant.components.lifx
+2020-03-06 16:14:34 INFO (SyncWorker_3) [homeassistant.loader] Loaded airly from homeassistant.components.airly
+2020-03-06 16:14:37 INFO (SyncWorker_2) [homeassistant.loader] Loaded icloud from homeassistant.components.icloud
+2020-03-06 16:14:38 ERROR (MainThread) [homeassistant.components.hue.sensor_base] Error fetching sensor data: 
+2020-03-06 16:14:38 INFO (SyncWorker_12) [homeassistant.loader] Loaded melcloud from homeassistant.components.melcloud
+2020-03-06 16:14:38 ERROR (MainThread) [homeassistant.components.hue.light] Error fetching light data: 
+2020-03-06 16:14:38 INFO (SyncWorker_14) [homeassistant.loader] Loaded hangouts from homeassistant.components.hangouts
+2020-03-06 16:14:39 INFO (SyncWorker_12) [homeassistant.loader] Loaded gpslogger from homeassistant.components.gpslogger
+2020-03-06 16:14:39 INFO (SyncWorker_18) [homeassistant.loader] Loaded almond from homeassistant.components.almond
+2020-03-06 16:14:39 INFO (SyncWorker_18) [homeassistant.loader] Loaded notion from homeassistant.components.notion
+2020-03-06 16:14:39 INFO (SyncWorker_8) [homeassistant.loader] Loaded logi_circle from homeassistant.components.logi_circle
+2020-03-06 16:14:39 INFO (SyncWorker_17) [homeassistant.loader] Loaded mikrotik from homeassistant.components.mikrotik
+2020-03-06 16:14:39 INFO (SyncWorker_9) [homeassistant.loader] Loaded mqtt from homeassistant.components.mqtt
+2020-03-06 16:14:39 INFO (SyncWorker_0) [homeassistant.loader] Loaded zha from homeassistant.components.zha
+2020-03-06 16:14:39 INFO (SyncWorker_15) [homeassistant.loader] Loaded twentemilieu from homeassistant.components.twentemilieu
+2020-03-06 16:14:39 INFO (SyncWorker_18) [homeassistant.loader] Loaded luftdaten from homeassistant.components.luftdaten
+2020-03-06 16:14:39 INFO (SyncWorker_19) [homeassistant.loader] Loaded cast from homeassistant.components.cast
+2020-03-06 16:14:39 INFO (SyncWorker_7) [homeassistant.loader] Loaded life360 from homeassistant.components.life360
+2020-03-06 16:14:39 INFO (SyncWorker_1) [homeassistant.loader] Loaded netatmo from homeassistant.components.netatmo
+2020-03-06 16:14:39 INFO (SyncWorker_13) [homeassistant.loader] Loaded homematicip_cloud from homeassistant.components.homematicip_cloud
+2020-03-06 16:14:39 INFO (SyncWorker_8) [homeassistant.loader] Loaded linky from homeassistant.components.linky
+2020-03-06 16:14:39 INFO (SyncWorker_17) [homeassistant.loader] Loaded axis from homeassistant.components.axis
+2020-03-06 16:14:39 INFO (SyncWorker_9) [homeassistant.loader] Loaded mailgun from homeassistant.components.mailgun
+2020-03-06 16:14:39 INFO (SyncWorker_0) [homeassistant.loader] Loaded glances from homeassistant.components.glances
+2020-03-06 16:14:39 INFO (SyncWorker_15) [homeassistant.loader] Loaded spotify from homeassistant.components.spotify
+2020-03-06 16:14:39 INFO (SyncWorker_18) [homeassistant.loader] Loaded tesla from homeassistant.components.tesla
+2020-03-06 16:14:39 INFO (SyncWorker_19) [homeassistant.loader] Loaded vilfo from homeassistant.components.vilfo
+2020-03-06 16:14:39 INFO (SyncWorker_7) [homeassistant.loader] Loaded openuv from homeassistant.components.openuv
+2020-03-06 16:14:39 INFO (SyncWorker_1) [homeassistant.loader] Loaded ambient_station from homeassistant.components.ambient_station
+2020-03-06 16:14:39 INFO (SyncWorker_13) [homeassistant.loader] Loaded sonos from homeassistant.components.sonos
+2020-03-06 16:14:39 INFO (SyncWorker_8) [homeassistant.loader] Loaded emulated_roku from homeassistant.components.emulated_roku
+2020-03-06 16:14:39 INFO (SyncWorker_17) [homeassistant.loader] Loaded ifttt from homeassistant.components.ifttt
+2020-03-06 16:14:39 INFO (SyncWorker_9) [homeassistant.loader] Loaded heos from homeassistant.components.heos
+2020-03-06 16:14:39 INFO (SyncWorker_0) [homeassistant.loader] Loaded locative from homeassistant.components.locative
+2020-03-06 16:14:39 INFO (MainThread) [hacs] Loading known repositories
+2020-03-06 16:14:39 INFO (SyncWorker_15) [homeassistant.loader] Loaded plaato from homeassistant.components.plaato
+2020-03-06 16:14:39 INFO (SyncWorker_3) [homeassistant.loader] Loaded nest from homeassistant.components.nest
+2020-03-06 16:14:39 INFO (SyncWorker_6) [homeassistant.loader] Loaded zwave from homeassistant.components.zwave
+2020-03-06 16:14:39 INFO (SyncWorker_16) [homeassistant.loader] Loaded gios from homeassistant.components.gios
+2020-03-06 16:14:39 INFO (SyncWorker_2) [homeassistant.loader] Loaded ios from homeassistant.components.ios
+2020-03-06 16:14:39 INFO (SyncWorker_5) [homeassistant.loader] Loaded adguard from homeassistant.components.adguard
+2020-03-06 16:14:39 INFO (SyncWorker_11) [homeassistant.loader] Loaded solarlog from homeassistant.components.solarlog
+2020-03-06 16:14:39 INFO (SyncWorker_10) [homeassistant.loader] Loaded withings from homeassistant.components.withings
+2020-03-06 16:14:40 INFO (SyncWorker_0) [homeassistant.loader] Loaded solaredge from homeassistant.components.solaredge
+2020-03-06 16:14:40 INFO (SyncWorker_15) [homeassistant.loader] Loaded cert_expiry from homeassistant.components.cert_expiry
+2020-03-06 16:14:40 INFO (SyncWorker_3) [homeassistant.loader] Loaded izone from homeassistant.components.izone
+2020-03-06 16:14:40 INFO (SyncWorker_6) [homeassistant.loader] Loaded geofency from homeassistant.components.geofency
+2020-03-06 16:14:40 INFO (SyncWorker_16) [homeassistant.loader] Loaded geonetnz_volcano from homeassistant.components.geonetnz_volcano
+2020-03-06 16:14:40 INFO (SyncWorker_2) [homeassistant.loader] Loaded wemo from homeassistant.components.wemo
+2020-03-06 16:14:40 INFO (SyncWorker_5) [homeassistant.loader] Loaded daikin from homeassistant.components.daikin
+2020-03-06 16:14:40 INFO (SyncWorker_11) [homeassistant.loader] Loaded ipma from homeassistant.components.ipma
+2020-03-06 16:14:40 INFO (SyncWorker_10) [homeassistant.loader] Loaded twilio from homeassistant.components.twilio
+2020-03-06 16:14:40 INFO (SyncWorker_12) [homeassistant.loader] Loaded rainmachine from homeassistant.components.rainmachine
+2020-03-06 16:14:40 INFO (SyncWorker_1) [homeassistant.loader] Loaded soma from homeassistant.components.soma
+2020-03-06 16:14:40 INFO (SyncWorker_7) [homeassistant.loader] Loaded minecraft_server from homeassistant.components.minecraft_server
+2020-03-06 16:14:40 INFO (SyncWorker_13) [homeassistant.loader] Loaded ambiclimate from homeassistant.components.ambiclimate
+2020-03-06 16:14:40 INFO (SyncWorker_6) [homeassistant.loader] Loaded ring from homeassistant.components.ring
+2020-03-06 16:14:40 INFO (SyncWorker_16) [homeassistant.loader] Loaded wled from homeassistant.components.wled
+2020-03-06 16:14:40 INFO (SyncWorker_2) [homeassistant.loader] Loaded plex from homeassistant.components.plex
+2020-03-06 16:14:40 INFO (SyncWorker_5) [homeassistant.loader] Loaded tplink from homeassistant.components.tplink
+2020-03-06 16:14:40 INFO (SyncWorker_11) [homeassistant.loader] Loaded vesync from homeassistant.components.vesync
+2020-03-06 16:14:40 INFO (SyncWorker_0) [homeassistant.loader] Loaded huawei_lte from homeassistant.components.huawei_lte
+2020-03-06 16:14:40 INFO (SyncWorker_12) [homeassistant.loader] Loaded garmin_connect from homeassistant.components.garmin_connect
+2020-03-06 16:14:40 INFO (SyncWorker_3) [homeassistant.loader] Loaded esphome from homeassistant.components.esphome
+2020-03-06 16:14:40 INFO (SyncWorker_13) [homeassistant.loader] Loaded dynalite from homeassistant.components.dynalite
+2020-03-06 16:14:40 INFO (SyncWorker_6) [homeassistant.loader] Loaded starline from homeassistant.components.starline
+2020-03-06 16:14:40 INFO (SyncWorker_9) [homeassistant.loader] Loaded unifi from homeassistant.components.unifi
+2020-03-06 16:14:40 INFO (SyncWorker_14) [homeassistant.loader] Loaded opentherm_gw from homeassistant.components.opentherm_gw
+2020-03-06 16:14:40 INFO (SyncWorker_18) [homeassistant.loader] Loaded smartthings from homeassistant.components.smartthings
+2020-03-06 16:14:41 INFO (SyncWorker_5) [homeassistant.loader] Loaded gdacs from homeassistant.components.gdacs
+2020-03-06 16:14:41 INFO (SyncWorker_11) [homeassistant.loader] Loaded simplisafe from homeassistant.components.simplisafe
+2020-03-06 16:14:41 INFO (SyncWorker_8) [homeassistant.loader] Loaded coolmaster from homeassistant.components.coolmaster
+2020-03-06 16:14:41 INFO (SyncWorker_3) [homeassistant.loader] Loaded geonetnz_quakes from homeassistant.components.geonetnz_quakes
+2020-03-06 16:14:41 INFO (SyncWorker_13) [homeassistant.loader] Loaded point from homeassistant.components.point
+2020-03-06 16:14:41 INFO (SyncWorker_6) [homeassistant.loader] Loaded toon from homeassistant.components.toon
+2020-03-06 16:14:41 INFO (SyncWorker_9) [homeassistant.loader] Loaded upnp from homeassistant.components.upnp
+2020-03-06 16:14:41 INFO (SyncWorker_14) [homeassistant.loader] Loaded brother from homeassistant.components.brother
+2020-03-06 16:14:41 INFO (SyncWorker_5) [homeassistant.loader] Loaded ecobee from homeassistant.components.ecobee
+2020-03-06 16:14:41 INFO (SyncWorker_0) [homeassistant.loader] Loaded coronavirus from homeassistant.components.coronavirus
+2020-03-06 16:14:41 INFO (SyncWorker_17) [homeassistant.loader] Loaded dialogflow from homeassistant.components.dialogflow
+2020-03-06 16:14:41 INFO (SyncWorker_5) [homeassistant.loader] Loaded local_ip from homeassistant.components.local_ip
+2020-03-06 16:14:41 INFO (SyncWorker_11) [homeassistant.loader] Loaded smhi from homeassistant.components.smhi
+2020-03-06 16:14:41 INFO (SyncWorker_7) [homeassistant.loader] Loaded traccar from homeassistant.components.traccar
+2020-03-06 16:14:41 INFO (SyncWorker_3) [homeassistant.loader] Loaded vizio from homeassistant.components.vizio
+2020-03-06 16:14:41 INFO (SyncWorker_16) [homeassistant.loader] Loaded wwlln from homeassistant.components.wwlln
+2020-03-06 16:14:41 INFO (SyncWorker_2) [homeassistant.loader] Loaded meteo_france from homeassistant.components.meteo_france
+2020-03-06 16:14:41 INFO (SyncWorker_5) [homeassistant.loader] Loaded elgato from homeassistant.components.elgato
+2020-03-06 16:14:41 INFO (SyncWorker_11) [homeassistant.loader] Loaded sentry from homeassistant.components.sentry
+2020-03-06 16:14:41 INFO (SyncWorker_7) [homeassistant.loader] Loaded transmission from homeassistant.components.transmission
+2020-03-06 16:14:41 INFO (SyncWorker_3) [homeassistant.loader] Loaded abode from homeassistant.components.abode
+2020-03-06 16:14:41 INFO (SyncWorker_16) [homeassistant.loader] Loaded owntracks from homeassistant.components.owntracks
+2020-03-06 16:14:41 INFO (SyncWorker_10) [homeassistant.loader] Loaded konnected from homeassistant.components.konnected
+2020-03-06 16:14:41 INFO (SyncWorker_15) [homeassistant.loader] Loaded neato from homeassistant.components.neato
+2020-03-06 16:14:41 INFO (SyncWorker_12) [homeassistant.loader] Loaded tellduslive from homeassistant.components.tellduslive
+2020-03-06 16:14:41 INFO (SyncWorker_2) [homeassistant.loader] Loaded iaqualink from homeassistant.components.iaqualink
+2020-03-06 16:14:41 INFO (SyncWorker_5) [homeassistant.loader] Loaded hisense_aehw4a1 from homeassistant.components.hisense_aehw4a1
+2020-03-06 16:14:41 INFO (SyncWorker_11) [homeassistant.loader] Loaded iqvia from homeassistant.components.iqvia
+2020-03-06 16:14:41 INFO (SyncWorker_7) [homeassistant.loader] Loaded ps4 from homeassistant.components.ps4
+2020-03-06 16:14:44 INFO (MainThread) [homeassistant.components.hue.sensor_base] Fetching sensor data recovered
+2020-03-06 16:14:44 INFO (MainThread) [homeassistant.components.hue.light] Fetching light data recovered
+2020-03-06 16:14:45 INFO (MainThread) [hacs] Loading known repositories finished
+2020-03-06 16:14:45 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 16:14:49 INFO (MainThread) [hacs] Loading known repositories finished
+2020-03-06 16:14:54 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 16:15:29 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:15:39 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:15:50 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:16:01 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 16:16:12 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:16:23 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:16:34 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:16:45 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:16:56 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:17:07 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:17:18 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:17:29 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:17:40 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:17:51 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:18:02 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:18:13 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:18:24 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:18:35 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:18:46 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:18:57 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:19:08 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:19:19 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:19:30 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:19:41 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:19:52 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:20:03 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:20:14 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:20:25 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:20:36 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:20:47 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:20:58 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:20:58 INFO (MainThread) [homeassistant.components.websocket_api.http.connection.1882506064] Connection closed by client
+2020-03-06 16:21:09 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:21:20 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:21:31 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:21:42 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 16:21:53 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:22:04 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:22:15 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:22:26 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:22:37 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:22:47 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:22:58 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:23:09 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:23:20 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:23:31 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:23:42 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 16:23:53 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:24:04 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:24:15 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 16:24:26 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:24:37 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:24:48 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:24:59 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:25:10 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:25:21 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:25:32 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:25:43 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:25:54 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:26:05 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:26:16 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:26:27 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:26:38 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:26:49 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:27:00 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:27:11 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:27:22 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:27:33 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:27:44 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:27:55 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:28:06 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:28:17 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:28:28 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:28:39 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:28:50 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:29:01 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:29:12 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:29:23 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:29:34 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:29:45 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:29:56 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:30:07 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:30:18 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:30:29 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:30:40 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:30:51 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:31:02 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:31:13 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:31:24 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:31:35 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:31:46 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:31:57 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:32:08 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:32:19 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:32:30 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:32:41 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:32:52 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:33:03 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:33:14 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:33:25 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:33:36 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:33:47 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:33:58 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:34:09 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:34:20 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:34:31 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:34:42 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 16:34:53 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 16:35:04 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:35:15 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:35:26 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 16:35:37 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:35:48 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:35:59 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:36:10 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:36:21 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:36:32 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:36:43 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:36:54 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:37:04 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:37:15 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:37:26 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:37:37 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:37:48 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:37:59 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:38:10 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:38:21 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:38:32 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:38:43 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:38:54 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:39:05 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:39:16 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:39:27 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:39:38 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:39:49 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:40:00 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:40:11 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:40:22 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:40:33 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:40:44 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:40:55 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:41:06 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:41:17 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 16:41:28 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:41:39 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:41:50 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:42:01 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:42:12 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:42:23 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:42:34 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:42:45 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:42:56 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:43:07 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:43:18 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:43:29 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:43:40 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:43:51 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:44:02 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 16:44:13 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:44:24 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:44:35 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:44:46 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 16:44:46 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:44:54 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 16:44:57 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:45:08 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:45:19 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:45:30 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:45:41 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:45:52 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:46:03 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:46:14 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:46:25 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:46:36 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:46:47 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 16:46:58 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:47:09 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:47:20 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:47:31 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:47:42 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 16:47:53 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:48:04 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:48:15 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:48:26 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:48:37 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:48:48 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:48:59 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:49:10 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:49:21 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:49:32 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:49:43 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:49:54 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:50:05 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:50:16 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:50:27 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:50:38 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:50:49 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:51:00 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:51:11 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:51:22 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:51:33 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:51:44 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:51:55 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:52:06 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:52:17 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:52:28 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:52:39 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 16:52:50 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:53:01 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:53:11 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 16:53:22 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 16:53:33 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 16:53:44 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:53:55 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:54:06 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:54:17 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 16:54:28 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:54:39 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:54:50 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:55:01 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 16:55:12 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:55:23 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:55:34 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:55:45 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:55:56 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:56:07 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:56:18 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:56:29 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 16:56:40 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 16:56:51 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:57:02 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:57:13 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:57:24 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:57:35 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 16:57:46 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 16:57:57 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 16:58:08 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 16:58:19 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:58:30 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 16:58:41 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 16:58:52 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 16:59:03 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 16:59:14 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 16:59:25 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 16:59:36 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 16:59:47 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 16:59:58 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:00:09 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:00:20 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:00:31 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:00:42 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:00:53 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:01:04 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:01:15 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:01:26 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:01:37 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:01:48 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:01:59 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:02:10 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:02:21 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:02:32 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:02:43 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:02:54 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:03:05 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:03:16 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:03:27 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:03:38 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:03:49 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:04:00 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:04:11 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:04:22 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:04:33 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:04:44 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:04:55 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:05:06 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:05:17 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:05:28 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:05:39 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:05:50 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:06:01 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:06:12 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:06:23 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:06:34 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:06:45 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:06:56 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:07:07 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:07:18 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:07:29 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:07:40 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:07:51 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:08:02 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:08:13 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:08:24 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:08:35 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:08:46 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:08:57 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:09:08 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:09:19 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:09:30 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:09:41 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:09:52 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:10:03 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:10:14 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:10:25 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:10:36 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:10:47 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:10:58 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:11:09 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:11:20 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:11:31 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:11:42 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:11:53 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:12:04 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:12:15 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:12:26 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:12:37 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:12:48 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:12:59 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:13:10 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:13:21 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:13:32 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:13:43 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:13:54 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:14:05 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:14:16 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:14:27 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:14:38 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:14:47 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 17:14:48 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:14:55 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 8 seconds
+2020-03-06 17:14:59 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:15:00 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 59049).
+2020-03-06 17:15:00 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:15:00 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:15:00 INFO (Thread-6) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 17:15:10 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:15:21 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:15:32 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:15:43 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:15:54 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:16:05 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:16:15 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:16:26 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:16:37 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:16:48 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:16:59 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:17:10 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:17:21 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:17:32 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:17:43 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:17:54 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:18:05 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:18:16 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:18:27 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:18:38 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:18:49 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:19:00 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:19:11 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:19:22 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:19:33 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:19:44 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:19:55 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:20:06 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:20:17 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:20:28 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:20:39 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:20:50 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:21:01 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:21:12 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:21:23 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:21:34 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:21:45 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:21:56 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:22:07 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:22:18 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:22:29 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:22:40 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:22:51 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:23:02 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:23:13 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:23:24 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:23:35 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:23:46 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:23:57 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:24:08 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:24:19 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:24:30 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:24:41 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:24:45 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 59056).
+2020-03-06 17:24:46 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:24:46 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:24:46 INFO (Thread-7) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 17:24:52 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:25:03 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:25:14 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:25:25 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:25:36 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:25:47 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:25:58 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:26:09 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:26:20 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:26:31 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:26:42 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:26:53 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:27:04 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:27:15 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:27:26 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:27:37 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:27:48 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:27:59 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:28:10 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:28:21 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:28:32 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:28:43 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:28:54 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:29:05 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:29:16 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:29:27 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:29:38 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:29:49 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:30:00 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:30:11 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:30:22 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:30:33 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:30:44 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:30:55 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:31:06 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:31:17 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:31:28 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:31:39 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:31:50 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:32:01 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:32:12 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:32:23 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:32:34 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:32:45 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:32:56 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:33:07 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:33:18 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:33:29 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:33:40 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:33:51 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:34:02 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:34:05 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 59060).
+2020-03-06 17:34:05 INFO (Thread-8) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:34:06 INFO (Thread-8) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:34:06 INFO (Thread-8) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 17:34:13 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:34:24 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:34:34 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:34:45 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:34:56 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:35:07 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:35:18 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:35:29 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:35:40 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:35:51 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:36:02 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:36:13 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:36:24 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:36:35 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:36:46 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:36:57 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:37:08 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:37:19 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:37:30 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:37:41 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:37:52 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:38:03 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:38:14 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:38:25 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:38:36 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:38:47 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:38:50 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":false,"daylight":true,"lastupdated":"2020-03-06T16:38:50","status":180,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 17:38:58 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:39:09 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:39:20 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:39:31 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:39:42 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:39:53 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:40:04 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:40:15 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:40:26 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:40:37 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:40:48 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:40:59 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:41:10 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:41:21 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:41:32 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:41:43 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:41:54 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:42:05 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:42:16 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:42:27 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:42:38 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:42:49 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:43:00 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:43:11 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:43:22 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:43:33 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:43:44 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:43:55 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:44:03 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 59063).
+2020-03-06 17:44:03 INFO (Thread-9) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:44:03 INFO (Thread-9) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 17:44:04 INFO (Thread-9) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 17:44:06 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:44:17 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:44:28 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:44:39 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:44:48 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 17:44:50 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:44:56 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 17:45:01 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:45:11 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:45:22 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:45:33 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:45:44 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:45:55 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 17:46:06 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:46:17 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:46:28 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:46:39 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:46:50 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:47:01 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:47:12 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:47:23 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:47:34 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:47:45 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:47:56 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:48:07 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:48:18 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:48:29 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:48:40 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:48:51 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:49:02 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:49:13 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:49:24 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:49:35 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:49:46 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:49:50 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":false,"daylight":false,"lastupdated":"2020-03-06T16:49:50","status":180,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 17:49:57 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:50:07 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:50:18 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:50:29 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:50:40 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:50:51 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:51:02 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 17:51:13 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:51:24 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:51:35 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:51:46 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:51:57 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:52:08 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:52:19 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:52:30 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:52:41 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:52:52 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:53:03 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:53:14 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:53:25 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:53:36 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 17:53:47 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:53:58 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:54:09 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:54:19 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:54:30 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:54:41 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 17:54:52 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:55:03 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 17:55:14 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:55:25 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 17:55:36 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:55:47 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:55:58 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:56:09 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 17:56:20 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:56:31 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:56:42 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 17:56:53 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 17:57:04 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:57:15 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:57:26 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 17:57:37 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:57:48 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:57:59 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 17:58:10 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 17:58:21 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 17:58:32 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 17:58:43 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 17:58:54 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:59:05 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 17:59:16 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 17:59:27 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 17:59:38 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 17:59:49 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:00:00 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:00:11 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:00:22 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:00:27 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.konyha_ablak is taking over 10 seconds
+2020-03-06 18:00:33 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:00:44 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:00:55 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:01:06 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:01:17 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:01:28 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:01:39 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:01:50 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:02:01 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:02:12 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:02:23 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:02:34 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:02:45 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:02:56 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:03:07 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:03:18 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:03:29 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:03:40 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:03:51 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 18:04:01 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:04:12 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:04:23 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:04:34 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:04:45 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:04:56 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:05:07 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:05:18 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:05:29 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:05:40 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:05:51 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:06:01 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:06:12 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:06:23 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:06:34 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:06:45 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:06:56 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:07:07 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:07:18 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:07:29 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:07:40 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:07:51 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:08:02 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:08:13 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:08:24 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:08:35 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:08:46 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:08:57 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:09:08 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:09:19 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:09:30 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:09:41 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:09:52 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:10:03 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:10:14 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:10:25 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:10:36 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:10:47 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:10:58 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:11:09 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:11:20 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:11:31 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:11:42 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:11:53 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:12:04 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:12:14 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:12:25 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:12:36 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:12:47 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:12:58 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:13:09 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:13:20 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:13:31 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:13:42 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:13:53 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:14:04 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:14:15 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:14:26 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:14:37 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 18:14:48 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:14:49 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 18:14:57 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 8 seconds
+2020-03-06 18:14:59 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:15:10 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:15:21 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:15:32 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:15:42 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:15:53 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:16:04 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:16:15 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:16:26 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:16:37 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:16:40 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":false,"daylight":false,"lastupdated":"2020-03-06T17:16:40","status":190,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 18:16:48 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:16:59 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:17:10 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:17:21 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:17:32 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:17:43 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:17:54 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:18:05 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:18:16 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:18:27 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:18:38 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:18:49 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:19:00 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.components.automation] Executing Sunset
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Running script
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step device automation
+2020-03-06 18:19:04 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:06 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:09 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:09 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:10 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:10 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:11 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:19:11 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:12 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:13 INFO (MainThread) [homeassistant.helpers.script] Script Sunset: Executing step call service
+2020-03-06 18:19:22 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:19:33 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:19:44 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:19:50 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":false,"daylight":false,"lastupdated":"2020-03-06T17:19:50","status":200,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 18:19:55 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:20:06 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:20:17 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:20:28 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:20:30 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":true,"daylight":false,"lastupdated":"2020-03-06T17:20:30","status":200,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 18:20:39 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:20:50 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:21:01 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:21:12 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:21:23 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:21:34 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:21:45 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:21:56 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:22:07 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:22:18 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:22:29 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:22:40 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:22:51 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:23:02 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:23:13 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:23:24 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:23:35 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:23:46 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:23:57 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:24:08 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:24:19 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:24:30 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:24:41 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:24:52 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:25:03 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:25:14 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:25:25 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:25:36 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:25:47 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:25:58 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:26:09 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:26:20 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:26:31 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:26:42 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:26:53 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:27:04 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:27:15 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:27:26 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:27:37 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:27:48 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:27:59 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:28:10 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:28:21 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:28:32 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:28:43 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:28:54 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:29:05 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:29:16 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:29:27 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:29:38 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:29:49 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:30:00 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:30:11 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:30:22 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:30:33 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:30:44 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:30:55 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 18:31:06 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:31:17 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:31:28 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:31:39 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:31:50 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:32:01 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:32:12 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:32:23 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:32:34 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:32:45 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:32:56 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:33:07 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:33:18 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:33:29 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:33:40 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:33:51 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:34:02 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:34:13 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:34:24 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:34:35 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:34:46 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:34:57 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:35:08 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:35:19 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:35:30 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:35:41 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:35:52 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 18:36:02 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:36:13 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:36:24 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:36:34 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:36:44 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:36:54 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:37:05 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:37:16 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:37:27 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:37:38 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:37:49 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:38:00 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:38:11 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:38:22 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:38:33 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:38:44 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:38:55 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:39:06 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:39:17 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:39:28 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:39:39 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:39:50 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:40:01 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:40:12 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:40:23 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:40:34 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:40:45 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:40:56 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:41:07 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:41:18 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:41:29 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:41:40 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:41:51 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:42:02 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:42:13 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:42:24 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:42:35 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:42:46 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:42:57 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:43:08 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:43:19 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:43:30 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:43:41 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:43:52 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:44:03 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:44:14 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:44:25 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:44:36 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:44:47 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:44:50 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 18:44:58 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:44:58 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 8 seconds
+2020-03-06 18:45:09 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:45:20 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:45:31 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:45:42 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:45:53 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:46:04 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:46:15 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:46:26 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:46:37 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:46:48 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:46:59 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:47:10 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:47:21 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:47:32 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:47:43 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:47:54 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:48:05 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:48:16 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:48:27 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:48:38 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:48:49 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:49:00 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:49:11 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:49:22 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:49:33 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:49:44 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:49:55 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:50:06 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:50:17 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:50:28 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:50:30 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":true,"daylight":false,"lastupdated":"2020-03-06T17:50:30","status":210,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 18:50:39 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:50:50 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:51:01 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:51:12 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 18:51:23 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:51:34 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:51:45 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 18:51:56 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:52:07 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:52:18 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:52:29 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:52:40 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:52:51 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:53:02 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:53:13 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:53:24 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:53:35 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:53:46 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 18:53:57 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:54:08 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:54:19 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:54:30 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:54:41 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 18:54:52 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:55:03 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:55:14 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:55:25 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:55:36 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 18:55:47 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 18:55:58 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:56:09 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:56:20 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:56:31 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 18:56:42 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 18:56:53 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:57:04 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 18:57:15 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:57:26 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 18:57:37 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 18:57:48 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:57:59 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:58:10 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 18:58:21 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:58:32 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 18:58:43 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 18:58:53 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 18:59:04 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:59:14 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 18:59:24 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 18:59:34 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 18:59:45 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 18:59:56 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:00:07 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:00:18 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:00:28 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:00:39 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:00:50 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:01:01 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:01:12 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:01:23 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:01:34 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:01:45 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:01:56 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:02:04 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:02:07 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:02:18 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:02:29 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:02:40 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:02:51 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:03:02 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:03:13 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:03:24 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:03:35 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:03:41 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
+2020-03-06 19:03:46 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:03:57 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:04:08 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:04:19 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:04:22 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.zsofi_ablak is taking over 10 seconds
+2020-03-06 19:04:28 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:04:30 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:04:41 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:04:44 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:04:44 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:04:52 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:05:03 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:05:14 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:05:25 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:05:36 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:05:42 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.tetoter_kert is taking over 10 seconds
+2020-03-06 19:05:47 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:05:58 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:06:09 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:06:20 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:06:31 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:06:42 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:06:46 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.vendegszoba is taking over 10 seconds
+2020-03-06 19:06:53 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:07:04 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:07:15 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:07:26 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:07:37 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:07:48 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:07:50 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.konyha_ablak is taking over 10 seconds
+2020-03-06 19:07:56 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:07:59 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:08:10 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:08:21 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:08:32 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:08:43 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:08:54 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:09:05 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:09:16 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:09:26 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:09:37 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:09:48 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:09:51 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
+2020-03-06 19:09:59 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:10:10 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:10:21 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:10:32 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:10:43 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:10:54 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:11:05 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:11:16 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:11:27 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:11:38 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:11:48 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:11:56 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:11:59 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:12:10 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:12:21 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:12:32 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:12:38 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.zsofi_ajto is taking over 10 seconds
+2020-03-06 19:12:43 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:12:54 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:13:05 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:13:16 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:13:27 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:13:38 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:13:49 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:14:00 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:14:11 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:14:22 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:14:33 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:14:36 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:14:44 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:14:51 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 19:14:55 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:15:00 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 19:15:06 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:15:17 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:15:28 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:15:39 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:15:50 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:16:01 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:16:12 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:16:21 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.konyha_ablak is taking over 10 seconds
+2020-03-06 19:16:23 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:16:27 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:16:34 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:16:43 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:16:44 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:16:45 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:16:56 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:17:07 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:17:09 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.nappali_ablak is taking over 10 seconds
+2020-03-06 19:17:18 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:17:29 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:17:40 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:17:51 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:18:02 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:18:13 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.etkezo_ajto is taking over 10 seconds
+2020-03-06 19:18:13 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:18:19 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:18:24 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:18:35 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:18:35 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:18:35 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:18:46 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:18:51 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:18:57 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:19:08 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:19:19 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:19:30 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:19:41 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:19:52 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:20:03 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:20:05 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.zsofi_ablak is taking over 10 seconds
+2020-03-06 19:20:14 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:20:25 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:20:36 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:20:47 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:20:58 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:21:09 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:21:20 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:21:31 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:21:42 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:21:53 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:22:04 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:22:15 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:22:26 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:22:37 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:22:48 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:22:59 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:23:10 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:23:21 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:23:32 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:23:43 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:23:54 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:24:05 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:24:16 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:24:27 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:24:38 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:24:49 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:24:53 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.konyha_ablak is taking over 10 seconds
+2020-03-06 19:24:59 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:25:00 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:25:11 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:25:14 WARNING (MainThread) [homeassistant.components.cover] Updating somfy cover took longer than the scheduled update interval 0:00:15
+2020-03-06 19:25:15 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 500
+2020-03-06 19:25:22 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:25:33 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:25:44 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:25:50 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":true,"daylight":false,"lastupdated":"2020-03-06T18:25:50","status":220,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 19:25:55 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:26:06 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:26:16 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:26:26 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:26:36 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:26:44 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.etkezo_ajto is taking over 10 seconds
+2020-03-06 19:26:47 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:26:58 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:27:06 WARNING (MainThread) [homeassistant.components.somfy] Cannot update devices: 401
+2020-03-06 19:27:09 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:27:20 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:27:31 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:27:42 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:27:53 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:28:04 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:28:15 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:28:26 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:28:37 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:28:48 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:28:59 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:29:10 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:29:21 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:29:24 WARNING (MainThread) [homeassistant.helpers.entity] Update of cover.etkezo_ajto is taking over 10 seconds
+2020-03-06 19:29:32 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:29:43 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:29:54 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:30:05 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:30:16 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:30:27 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:30:38 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:30:49 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:31:00 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:31:11 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:31:22 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:31:33 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:31:44 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:31:55 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:32:06 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:32:17 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:32:27 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:32:38 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:32:49 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:32:59 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:33:10 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:33:21 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:33:32 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:33:43 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:33:54 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:34:05 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:34:16 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:34:27 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:34:38 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:34:49 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:35:00 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:35:11 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:35:22 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:35:33 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:35:44 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:35:55 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:36:06 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:36:17 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:36:28 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:36:39 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:36:50 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:37:01 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:37:12 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:37:23 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:37:34 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:37:45 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:37:56 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:38:07 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:38:18 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:38:29 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:38:40 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:38:51 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:39:02 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:39:13 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:39:24 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:39:34 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:39:45 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:39:55 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:40:06 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:40:16 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:40:26 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:40:37 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:40:48 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:40:59 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:41:10 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:41:21 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:41:32 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:41:43 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:41:54 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:42:05 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:42:16 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:42:26 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:42:37 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:42:48 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:42:59 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:43:10 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:43:21 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:43:32 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:43:43 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:43:54 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:44:05 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:44:16 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:44:27 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:44:38 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:44:49 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:44:52 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 19:45:00 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:45:00 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 8 seconds
+2020-03-06 19:45:11 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:45:22 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:45:33 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:45:44 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:45:55 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:46:06 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:46:17 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:46:28 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:46:39 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 19:46:50 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:47:01 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:47:12 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:47:23 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:47:34 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:47:45 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 19:47:56 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:48:07 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:48:18 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:48:29 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:48:40 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:48:51 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:49:02 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:49:13 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:49:24 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:49:35 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:49:46 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:49:57 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:50:08 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:50:19 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:50:30 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:50:41 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:50:52 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:51:03 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:51:14 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 19:51:25 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 19:51:36 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:51:47 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:51:58 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:52:09 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:52:20 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:52:30 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 19:52:41 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:52:52 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:53:02 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:53:13 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:53:24 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:53:35 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:53:46 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 19:53:57 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:54:07 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:54:18 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:54:29 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:54:40 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:54:50 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:55:01 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:55:12 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:55:23 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:55:34 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 19:55:45 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:55:55 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:56:06 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 19:56:17 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:56:28 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:56:39 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:56:50 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:57:01 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 19:57:12 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:57:23 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:57:34 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:57:45 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 19:57:56 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:58:07 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:58:18 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 19:58:29 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 19:58:40 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 19:58:50 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 19:59:01 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 19:59:12 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 19:59:23 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 19:59:34 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 19:59:45 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 19:59:56 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 20:00:06 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 20:00:17 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 20:00:27 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 20:00:38 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 20:00:49 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 20:00:59 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 20:01:10 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 20:01:21 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 20:01:32 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:01:40 DEBUG (MainThread) [pydeconz.websocket] {"e":"changed","id":"1","r":"sensors","state":{"dark":true,"daylight":false,"lastupdated":"2020-03-06T19:01:40","status":230,"sunrise":"2020-03-06T05:57:53","sunset":"2020-03-06T17:19:46"},"t":"event","uniqueid":"00:21:2e:ff:ff:05:19:ac-01"}
+2020-03-06 20:01:43 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 20:01:53 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:02:04 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 20:02:15 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 20:02:25 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 20:02:36 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 20:02:47 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 20:02:58 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 20:03:09 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:03:20 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 20:03:30 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 20:03:41 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 20:03:52 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:04:03 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 20:04:14 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 20:04:25 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 20:04:36 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 20:04:47 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:04:57 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 20:05:08 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 20:05:17 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 59242).
+2020-03-06 20:05:17 INFO (Thread-10) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 20:05:17 INFO (Thread-10) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 20:05:17 INFO (Thread-10) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 20:05:19 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 20:05:30 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 20:05:41 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:05:52 INFO (SyncWorker_0) [root] Sending handshake.
+2020-03-06 20:06:02 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 20:06:13 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:06:24 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 20:06:35 INFO (SyncWorker_1) [root] Sending handshake.
+2020-03-06 20:06:46 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 20:06:57 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 20:07:08 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 20:07:19 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:07:29 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:07:40 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 20:07:51 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 20:08:01 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 20:08:12 INFO (SyncWorker_11) [root] Sending handshake.
+2020-03-06 20:08:23 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:08:34 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 20:08:45 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 20:08:56 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:09:07 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:09:18 INFO (SyncWorker_19) [root] Sending handshake.
+2020-03-06 20:09:28 INFO (SyncWorker_7) [root] Sending handshake.
+2020-03-06 20:09:39 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 20:09:49 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:10:00 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 20:10:11 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 20:10:22 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 20:10:33 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 20:10:44 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 20:10:55 INFO (SyncWorker_8) [root] Sending handshake.
+2020-03-06 20:11:06 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 20:11:17 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:11:27 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 20:11:38 INFO (SyncWorker_15) [root] Sending handshake.
+2020-03-06 20:11:49 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 20:12:00 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 20:12:11 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 20:12:21 INFO (SyncWorker_2) [root] Sending handshake.
+2020-03-06 20:12:31 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 20:12:42 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:12:52 INFO (SyncWorker_5) [root] Sending handshake.
+2020-03-06 20:13:03 INFO (SyncWorker_18) [root] Sending handshake.
+2020-03-06 20:13:14 INFO (SyncWorker_9) [root] Sending handshake.
+2020-03-06 20:13:24 INFO (SyncWorker_6) [root] Sending handshake.
+2020-03-06 20:13:35 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:13:46 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 20:13:57 INFO (SyncWorker_12) [root] Sending handshake.
+2020-03-06 20:14:08 INFO (SyncWorker_10) [root] Sending handshake.
+2020-03-06 20:14:18 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:14:29 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 20:14:40 INFO (SyncWorker_3) [root] Sending handshake.
+2020-03-06 20:14:51 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 20:14:53 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 20:15:01 INFO (SyncWorker_17) [root] Sending handshake.
+2020-03-06 20:15:01 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 20:15:12 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 20:15:23 INFO (SyncWorker_13) [root] Sending handshake.
+2020-03-06 20:44:54 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 20:45:03 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 20:48:32 INFO (Thread-3) [pyhap.hap_server] Got connection with ('192.168.1.78', 59251).
+2020-03-06 20:48:32 INFO (Thread-11) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 20:48:32 INFO (Thread-11) [pyhap.hap_server] 192.168.1.78 - "POST /pair-verify HTTP/1.1" 200 -
+2020-03-06 20:48:32 INFO (Thread-11) [pyhap.hap_server] 192.168.1.78 - "GET /accessories HTTP/1.1" 200 -
+2020-03-06 21:14:54 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 21:15:02 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 21:22:33 INFO (MainThread) [homeassistant.components.websocket_api.http.connection.1878384144] Connection closed by client
+2020-03-06 21:44:55 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 21:45:03 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 22:14:55 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 22:15:03 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 22:15:09 INFO (SyncWorker_14) [root] Sending handshake.
+2020-03-06 22:15:20 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 22:15:31 INFO (SyncWorker_16) [root] Sending handshake.
+2020-03-06 22:44:56 INFO (MainThread) [hacs.factory] Processing 11 tasks
+2020-03-06 22:45:04 INFO (MainThread) [hacs.factory] Task processing of 22 tasks completed in 9 seconds
+2020-03-06 22:45:07 INFO (MainThread) [homeassistant.components.websocket_api.http.connection.1880599408] Connection closed by client

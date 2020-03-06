@@ -11,7 +11,7 @@
     domain: light
     entity_id: light.roof_living_room_light
     type: turn_on
-
+  id: 41e18b4cdfba4464831da3bbfc309d10
 - alias: turn off roof living room light
   description: ''
   trigger:
@@ -25,7 +25,7 @@
     domain: light
     entity_id: light.roof_living_room_light
     type: turn_off
-    
+  id: 374af73ba7c748029e625cee3ea0b8ff
 - alias: turn on roof living room ceiling light
   description: ''
   trigger:
@@ -39,7 +39,7 @@
     domain: switch
     entity_id: switch.roof_living_room_ceiling_light
     type: turn_on
-    
+  id: 11a34e75b7f04829aa590d4b5759439b
 - alias: turn off roof living room ceiling light
   description: ''
   trigger:
@@ -53,7 +53,7 @@
     domain: switch
     entity_id: switch.roof_living_room_ceiling_light
     type: turn_off
-    
+  id: 23b060f4db91440db94538cc26473f58
 - alias: turn on roof living room ceiling light
   description: ''
   trigger:
@@ -71,7 +71,7 @@
     domain: light
     entity_id: light.roof_living_room_light
     type: turn_on
-    
+  id: a738b34334874f2bbc405370f5d8e9f5
 - alias: turn off roof living room ceiling light
   description: ''
   trigger:
@@ -89,8 +89,8 @@
     domain: light
     entity_id: light.roof_living_room_light
     type: turn_off
-    
-- alias: 'Set theme at startup'
+  id: a1f7e9f45c294e87a885030920ab420b
+- alias: Set theme at startup
   trigger:
   - platform: homeassistant
     event: start
@@ -98,3 +98,108 @@
     service: frontend.set_theme
     data:
       name: ios-dark-mode
+  id: f479fc83e96f4171b27cb5496a5ff7a7
+- id: 'sunrise'
+  alias: Sunrise
+  description: ''
+  trigger:
+  - above: 5
+    device_id: d5568076137f4503b8eeac21d932eaf4
+    domain: sensor
+    entity_id: sensor.terasz_sensor_light_level
+    platform: device
+    type: illuminance
+  condition:    
+  - condition: time
+    after: '6:30:00'
+    before: '8:30:00'
+    weekday:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+  action:
+  - entity_id: cover.nappali_ablak
+    service: cover.open_cover
+  - entity_id: cover.kert_terasz_ajto
+    service: cover.open_cover
+  - entity_id: cover.konyha_ablak
+    service: cover.open_cover
+  - entity_id: cover.etkezo_ajto
+    service: cover.open_cover
+- id: 'sunset'
+  alias: Sunset
+  description: close covers and turn on lights
+  trigger:
+  - below: 10
+    device_id: d5568076137f4503b8eeac21d932eaf4
+    domain: sensor
+    entity_id: sensor.terasz_sensor_light_level
+    platform: device
+    type: illuminance
+  condition:
+  - condition: time
+    after: '17:00:00'
+    before: '20:00:00'
+    weekday:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+  action:
+  - device_id: eb3444b54e394880aff151e95f174118
+    domain: light
+    entity_id: light.hue_lightstrip_plus_1
+    type: turn_on
+  - device_id: 0c8e5e51d9af4352a16eed25f98dfbbe
+    domain: switch
+    entity_id: switch.roof_living_room_ceiling_light
+    type: turn_on
+  - device_id: d86db2f298bd4202bab0bd651fdb3f39
+    domain: light
+    entity_id: light.nappali_1
+    type: turn_on
+  - device_id: 4d7d072b80084fdd8a85e86c9bfd491c
+    domain: light
+    entity_id: light.nappali_2
+    type: turn_on
+  - device_id: 7b5bbf72262f43d1908acfa0d0575cf5
+    domain: light
+    entity_id: light.nappali_left_bottom
+    type: turn_on
+  - device_id: 42f74795f0c14fa795543e3ce048db56
+    domain: light
+    entity_id: light.nappali_left_top
+    type: turn_on
+  - device_id: cd030a8b97f14126896267584fc1a1ea
+    domain: light
+    entity_id: light.nappali_right_bottom
+    type: turn_on
+  - device_id: cdafc8466ba848ce96782a4ece211ec1
+    domain: light
+    entity_id: light.nappali_right_top
+    type: turn_on
+  - device_id: 7e10fdb73f5c45918cfedd350d133d5e
+    domain: light
+    entity_id: light.passage_light
+    type: turn_on
+  - entity_id: cover.tetoter_utca
+    service: cover.close_cover
+  - entity_id: cover.tetoter_kert
+    service: cover.close_cover
+  - entity_id: cover.dori
+    service: cover.close_cover
+  - entity_id: cover.zsofi_ajto
+    service: cover.close_cover
+  - entity_id: cover.zsofi_ablak
+    service: cover.close_cover
+  - entity_id: cover.vendegszoba
+    service: cover.close_cover
+  - entity_id: cover.nappali_ablak
+    service: cover.close_cover
+  - entity_id: cover.konyha_ablak
+    service: cover.close_cover
+  - entity_id: cover.etkezo_ajto
+    service: cover.close_cover

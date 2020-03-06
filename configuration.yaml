@@ -1,46 +1,39 @@
 
+homeassistant:
+  customize: !include customize.yaml
+  auth_mfa_modules:
+    type: notify
+    message: '{}'
+
 # Configure a default setup of Home Assistant (frontend, api, etc)
 default_config:
-
+frontend:
+  themes: !include_dir_merge_named themes
 # Uncomment this if you are using SSL/TLS, running in Docker container, etc.
 http:
   base_url: !secret dns_url
+  ssl_certificate: !secret fullchain
+  ssl_key: !secret privkey
 
-# Text to speech
-tts:
-  platform: google_translate
-
-group: !include groups.yaml
-automation: !include automations.yaml
-script: !include scripts.yaml
-scene: !include scenes.yaml
-
-# hacs:
-#  token: !secret hacs_token
-#  theme: true
-#  python_script: true
-
-frontend:
-  themes: !include_dir_merge_named themes
-
-homeassistant:
-  auth_mfa_modules:
-    - type: notify
-      message: 'hey {}'
-    - type: totp
-      name: Authenticator app
-
-
-tado:
-  username: !secret tado_user
-  password: !secret tado_pass
-    
 device_tracker:
   platform: tado
   username: !secret tado_user
   password: !secret tado_pass
   home_id: !secret tado_home
-    
+
+hacs:
+ token: !secret hacs_token    
+
+# Text to speech
+# tts:
+#   platform: google_translate
+
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+group: !include groups.yaml
+
 homekit:
   filter:
     include_domains:
@@ -48,9 +41,26 @@ homekit:
       - light
       - switch
       - climate
-      
+
+tado:
+  username: !secret tado_user
+  password: !secret tado_pass
+    
+weather:
+  - platform: darksky
+    api_key: !secret darksky_api_key
+    latitude: !secret home_lat 
+    longitude: !secret home_lon
+    name: Weather
+
 logger:
   default: info
   logs:
     pydeconz: debug
     homeassistant.components.deconz: debug
+    
+camera:
+- platform: generic
+  name: living
+  still_image_url: !secret CameraLiving_URL
+  stream_source: !secret CameraLiving_Source 

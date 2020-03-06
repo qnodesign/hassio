@@ -1,0 +1,46 @@
+corridorlights:
+  - light.corridor_light_1
+  - light.corridor_light_2
+  - light.corridor_panel
+  
+roof_bedroom_lights:
+  - light.roof_bedroom_light
+  - light.bed_kuno
+  - light.bed_timi
+  
+roof_living_room_lights:
+  - light.roof_living_room_light
+  - switch.roof_living_room_ceiling_light
+
+guestroom_lights:
+  - light.guestroom_light_1
+  - light.guestroom_light_2
+  
+room_dora_lights:
+  - light.dora_bulb
+  - light.dora_table
+  
+room_sophie_lights:
+  - light.sophie_light_1
+  - light.sophie_light_2
+
+kitchen_lights:
+  - light.kitchen_plate_lights
+  - light.hue_ambiance_spot_1
+  - light.hue_ambiance_spot_2
+  - light.hue_ambiance_spot_3
+  - light.hue_ambiance_spot_4
+  - light.hue_ambiance_spot_5
+  - light.hue_ambiance_spot_6
+  - light.passage_light
+  
+living_room_lights:
+  - light.nappali_1
+  - light.nappali_2
+  - light.nappali_left_bottom
+  - light.nappali_left_top
+  - light.nappali_right_bottom
+  - light.nappali_right_top
+  - light.nappali_olvasolampa
+  - light.hue_lightstrip_plus_1
+  

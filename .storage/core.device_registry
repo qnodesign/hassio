@@ -583,7 +583,7 @@
                 "model": "Hue color lamp",
                 "name": "Nappali 1",
                 "name_by_user": null,
-                "sw_version": "5.127.1.26420",
+                "sw_version": "5.130.1.30000",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -623,7 +623,7 @@
                 "model": "Hue color lamp",
                 "name": "Nappali 2",
                 "name_by_user": null,
-                "sw_version": "5.127.1.26420",
+                "sw_version": "5.130.1.30000",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -643,7 +643,7 @@
                 "model": "Hue lightstrip plus",
                 "name": "Hue lightstrip plus 1",
                 "name_by_user": null,
-                "sw_version": "1.46.13_r26312",
+                "sw_version": "1.50.2_r30933",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -703,7 +703,7 @@
                 "model": "Hue ambiance spot",
                 "name": "nappali olvasolampa",
                 "name_by_user": null,
-                "sw_version": "1.46.13_r26312",
+                "sw_version": "1.50.2_r30933",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -721,9 +721,9 @@
                 ],
                 "manufacturer": "Signify Netherlands B.V.",
                 "model": "Hue color spot",
-                "name": "nappli left top",
+                "name": "nappali left top",
                 "name_by_user": null,
-                "sw_version": "5.127.1.26420",
+                "sw_version": "5.130.1.30000",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -763,7 +763,7 @@
                 "model": "Hue color spot",
                 "name": "nappali left bottom",
                 "name_by_user": null,
-                "sw_version": "5.127.1.26420",
+                "sw_version": "5.130.1.30000",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -783,7 +783,7 @@
                 "model": "Hue color spot",
                 "name": "nappali right bottom",
                 "name_by_user": null,
-                "sw_version": "5.127.1.26420",
+                "sw_version": "5.130.1.30000",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -843,7 +843,7 @@
                 "model": "Hue color spot",
                 "name": "nappali right top",
                 "name_by_user": null,
-                "sw_version": "5.127.1.26420",
+                "sw_version": "5.130.1.30000",
                 "via_device_id": "2afa7f8f6581451e9473f42ce998b4c9"
             },
             {
@@ -1164,26 +1164,6 @@
             {
                 "area_id": null,
                 "config_entries": [
-                    "21ad835c35434c0584fb76ba1fc9e777"
-                ],
-                "connections": [],
-                "id": "b6ae67326cb14caf89b7fad587e5d646",
-                "identifiers": [
-                    [
-                        "mobile_app",
-                        "cda38a2ae6074d4ba31ce88fa41e0508"
-                    ]
-                ],
-                "manufacturer": "Apple",
-                "model": "iPhone Xs",
-                "name": "qnoPhone",
-                "name_by_user": null,
-                "sw_version": "13.3.1",
-                "via_device_id": null
-            },
-            {
-                "area_id": null,
-                "config_entries": [
                     "a207f1b05a264a768dc3e36a4103d856"
                 ],
                 "connections": [],
@@ -1219,6 +1199,66 @@
                 "name": "Samsung UE40D5000",
                 "name_by_user": null,
                 "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "4e370e85051d4f80996e03d751e90583",
+                "config_entries": [
+                    "d02efab0aa18477ea4eb6c48f25ca118"
+                ],
+                "connections": [],
+                "id": "aa2281d6d8814ca9a3f8f77289bd704a",
+                "identifiers": [
+                    [
+                        "hacs",
+                        "0717a0cd-745c-48fd-9b16-c8534c9704f9-bc944b0f-fd42-4a58-a072-ade38d1444cd"
+                    ]
+                ],
+                "manufacturer": "hacs.xyz",
+                "model": "",
+                "name": "HACS",
+                "name_by_user": null,
+                "sw_version": "0.22.2",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "f2f059d8e0484e5f86dacb6f2f80fdd6"
+                ],
+                "connections": [],
+                "id": "5c3b93ce8bae4dbf99c03882635ce5ae",
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "196a29a2d7894126a567d8607573f759"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone 8",
+                "name": "Timi\u2019s iPhone",
+                "name_by_user": null,
+                "sw_version": "13.3.1",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "078693fdd2174b9289111cef1b282fbd"
+                ],
+                "connections": [],
+                "id": "6338b99f5de548149e01bff72359f37e",
+                "identifiers": [
+                    [
+                        "mobile_app",
+                        "fc73e7ec73494b24b9d3b3a9bf43a3b1"
+                    ]
+                ],
+                "manufacturer": "Apple",
+                "model": "iPhone Xs",
+                "name": "qnoPhone",
+                "name_by_user": null,
+                "sw_version": "13.3.1",
                 "via_device_id": null
             }
         ]

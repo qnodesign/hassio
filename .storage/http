@@ -1,6 +1,6 @@
 {
     "data": {
-        "base_url": "qno.duckdns.org:8123",
+        "base_url": "https://qno.duckdns.org:8123",
         "cors_allowed_origins": [
             "https://cast.home-assistant.io"
         ],
@@ -8,6 +8,8 @@
         "login_attempts_threshold": -1,
         "server_host": "0.0.0.0",
         "server_port": 8123,
+        "ssl_certificate": "/ssl/fullchain.pem",
+        "ssl_key": "/ssl/privkey.pem",
         "ssl_profile": "modern"
     },
     "key": "http",

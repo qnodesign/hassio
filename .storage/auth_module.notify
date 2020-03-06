@@ -1,11 +1,6 @@
 {
     "data": {
-        "users": {
-            "42c1f67fd6984d35952738c920d4021a": {
-                "notify_service": "mobile_app_qnophone",
-                "target": ""
-            }
-        }
+        "users": {}
     },
     "key": "auth_module.notify",
     "version": 1

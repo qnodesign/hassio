@@ -1,0 +1,8 @@
+person.kuno_2:
+  entity_picture: !secret profile_photo_kuno
+person.timi:
+  entity_picture: !secret profile_photo_timi
+person.zsofi:
+  entity_picture: !secret profile_photo_zsofi
+person.dori:
+  entity_picture: !secret profile_photo_dori

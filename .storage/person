@@ -6,13 +6,27 @@
                     "device_tracker.qnophone"
                 ],
                 "id": "konrad_hefelle",
-                "name": "Konrad Hefelle",
+                "name": "Kuno",
                 "user_id": "42c1f67fd6984d35952738c920d4021a"
             },
             {
-                "device_trackers": [],
+                "device_trackers": [
+                    "device_tracker.timis_iphone"
+                ],
                 "id": "timi_hefelle",
-                "name": "Timi Hefelle",
+                "name": "Timi",
+                "user_id": "49d97bba659440e8b5baed011670288b"
+            },
+            {
+                "device_trackers": [],
+                "id": "zsofi",
+                "name": "Zsofi",
+                "user_id": null
+            },
+            {
+                "device_trackers": [],
+                "id": "dori",
+                "name": "D\u00f3ri",
                 "user_id": null
             }
         ]
